@@ -43,9 +43,9 @@ Aniyomi est une application open-source dérivée de Tachiyomi, conçue pour les
 
 
 *Note : Pour ajouter des extensions d’animés et de mangas, configurez ces liens dans les paramètres
-[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*
+Animes:[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*
 
-*[https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*
+*Mangas:[https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*
 
 
 ### 🎯 Fonctionnalités  
@@ -61,9 +61,9 @@ Aniyomi est une application open-source dérivée de Tachiyomi, conçue pour les
 Aniyomi is an open-source app forked from Tachiyomi, tailored for manga and anime enthusiasts. It lets you read manga and watch anime from various sources, featuring a customizable interface and support for trackers like MyAnimeList or AniList.  
 
 *Note : To add anime and manga extensions, set these links in the settings
-[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*
+Animes:[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*
 
-*[https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*
+*Mangas:[https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*
 
 
 ### 🎯 Features  

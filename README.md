@@ -8,8 +8,7 @@
 
 ## YTDLnis  
 
-**FR : 🇫🇷**  
-YTDLnis est un outil puissant basé sur youtube-dl, conçu pour télécharger des vidéos et de l'audio depuis diverses plateformes en ligne. Cette application offre une interface simplifiée et des options avancées pour récupérer du contenu multimédia rapidement et facilement. Le téléchargeur est compatible avec ReVanced et ReVanced Extended.  
+**FR : 🇫🇷**  YTDLnis est un outil puissant basé sur youtube-dl, conçu pour télécharger des vidéos et de l'audio depuis diverses plateformes en ligne. Cette application offre une interface simplifiée et des options avancées pour récupérer du contenu multimédia rapidement et facilement. Le téléchargeur est compatible avec ReVanced et ReVanced Extended.  
 
 ### 🎯 Fonctionnalités  
 - 📥 Téléchargement de vidéos et audio depuis YouTube et autres plateformes  
@@ -20,8 +19,7 @@ YTDLnis est un outil puissant basé sur youtube-dl, conçu pour télécharger de
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-YTDLnis is a powerful youtube-dl-based tool designed to download videos and audio from various online platforms. This app provides a streamlined interface and advanced options to retrieve multimedia content quickly and easily. The downloader is compatible with ReVanced and ReVanced Extended.  
+**EN : 🇬🇧**  YTDLnis is a powerful youtube-dl-based tool designed to download videos and audio from various online platforms. This app provides a streamlined interface and advanced options to retrieve multimedia content quickly and easily. The downloader is compatible with ReVanced and ReVanced Extended.  
 
 ### 🎯 Features  
 - 📥 Download videos and audio from YouTube and other platforms  
@@ -38,8 +36,7 @@ YTDLnis is a powerful youtube-dl-based tool designed to download videos and audi
 
 ## Aniyomi  
 
-**FR : 🇫🇷**  
-Aniyomi est une application open-source dérivée de Tachiyomi, conçue pour les amateurs de mangas et d’animes. Elle permet de lire des mangas et de regarder des animes depuis diverses sources, avec une interface personnalisable et un support pour les trackers comme MyAnimeList ou AniList.  
+**FR : 🇫🇷**  Aniyomi est une application open-source dérivée de Tachiyomi, conçue pour les amateurs de mangas et d’animes. Elle permet de lire des mangas et de regarder des animes depuis diverses sources, avec une interface personnalisable et un support pour les trackers comme MyAnimeList ou AniList.  
 
 
 *Note : Pour ajouter des extensions d’animés et de mangas, configurez ces liens dans les paramètres
@@ -57,8 +54,7 @@ Animes:[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.jso
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-Aniyomi is an open-source app forked from Tachiyomi, tailored for manga and anime enthusiasts. It lets you read manga and watch anime from various sources, featuring a customizable interface and support for trackers like MyAnimeList or AniList.  
+**EN : 🇬🇧**  Aniyomi is an open-source app forked from Tachiyomi, tailored for manga and anime enthusiasts. It lets you read manga and watch anime from various sources, featuring a customizable interface and support for trackers like MyAnimeList or AniList.  
 
 *Note : To add anime and manga extensions, set these links in the settings
 Animes:[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*
@@ -82,8 +78,7 @@ Animes:[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.jso
 
 ## Animetail  
 
-**FR : 🇫🇷**  
-Animetail est une fork non officielle d’Aniyomi, offrant des améliorations et des mises à jour fréquentes pour une expérience optimisée. Cette version se concentre sur la stabilité et l’ajout de fonctionnalités supplémentaires pour le streaming d’animes et la lecture de mangas.  
+**FR : 🇫🇷**  Animetail est une fork non officielle d’Aniyomi, offrant des améliorations et des mises à jour fréquentes pour une expérience optimisée. Cette version se concentre sur la stabilité et l’ajout de fonctionnalités supplémentaires pour le streaming d’animes et la lecture de mangas.  
 
 ### 🎯 Fonctionnalités  
 - 📚 Lecture de mangas avec sources variées  
@@ -94,8 +89,7 @@ Animetail est une fork non officielle d’Aniyomi, offrant des améliorations et
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-Animetail is an unofficial fork of Aniyomi, delivering enhancements and frequent updates for an optimized experience. This version focuses on stability and additional features for anime streaming and manga reading.  
+**EN : 🇬🇧**  Animetail is an unofficial fork of Aniyomi, delivering enhancements and frequent updates for an optimized experience. This version focuses on stability and additional features for anime streaming and manga reading.  
 
 ### 🎯 Features  
 - 📚 Manga reading with diverse sources  
@@ -112,8 +106,7 @@ Animetail is an unofficial fork of Aniyomi, delivering enhancements and frequent
 
 ## Mihon  
 
-**FR : 🇫🇷**  
-Mihon est un fork de Tachiyomi, une application open-source populaire pour lire des mangas. Conçue pour offrir une expérience fluide et moderne, Mihon conserve les fonctionnalités de base de Tachiyomi tout en ajoutant des améliorations spécifiques comme une interface mise à jour et une meilleure compatibilité avec les nouvelles sources.  
+**FR : 🇫🇷**  Mihon est un fork de Tachiyomi, une application open-source populaire pour lire des mangas. Conçue pour offrir une expérience fluide et moderne, Mihon conserve les fonctionnalités de base de Tachiyomi tout en ajoutant des améliorations spécifiques comme une interface mise à jour et une meilleure compatibilité avec les nouvelles sources.  
 
 ### 🎯 Fonctionnalités  
 - 📚 Lecture de mangas depuis de nombreuses sources  
@@ -124,8 +117,7 @@ Mihon est un fork de Tachiyomi, une application open-source populaire pour lire 
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-Mihon is a fork of Tachiyomi, a popular open-source app for reading manga. Designed to provide a smooth and modern experience, Mihon retains Tachiyomi’s core features while introducing specific enhancements like an updated interface and better compatibility with new sources.  
+**EN : 🇬🇧**  Mihon is a fork of Tachiyomi, a popular open-source app for reading manga. Designed to provide a smooth and modern experience, Mihon retains Tachiyomi’s core features while introducing specific enhancements like an updated interface and better compatibility with new sources.  
 
 ### 🎯 Features  
 - 📚 Manga reading from numerous sources  
@@ -142,8 +134,7 @@ Mihon is a fork of Tachiyomi, a popular open-source app for reading manga. Desig
 
 ## PPCine  
 
-**FR : 🇫🇷**  
-PPCine est une application de streaming qui permet de regarder gratuitement des films, séries et animés sur votre appareil Android. Avec une interface conviviale, elle offre un accès à une vaste bibliothèque de contenus sans abonnement ni inscription, idéale pour les amateurs de divertissement sans frais.  
+**FR : 🇫🇷**  PPCine est une application de streaming qui permet de regarder gratuitement des films, séries et animés sur votre appareil Android. Avec une interface conviviale, elle offre un accès à une vaste bibliothèque de contenus sans abonnement ni inscription, idéale pour les amateurs de divertissement sans frais.  
 
 ### 🎯 Fonctionnalités  
 - 📺 Streaming de films, séries et animés en haute qualité  
@@ -153,8 +144,7 @@ PPCine est une application de streaming qui permet de regarder gratuitement des 
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-PPCine is a streaming app that lets you watch movies, series, and anime for free on your Android device. Featuring a user-friendly interface, it provides access to a vast content library without subscription or registration, perfect for entertainment seekers on a budget.  
+**EN : 🇬🇧**  PPCine is a streaming app that lets you watch movies, series, and anime for free on your Android device. Featuring a user-friendly interface, it provides access to a vast content library without subscription or registration, perfect for entertainment seekers on a budget.  
 
 ### 🎯 Features  
 - 📺 Streaming of movies, series, and anime in high quality  
@@ -170,8 +160,7 @@ PPCine is a streaming app that lets you watch movies, series, and anime for free
 
 ## Wiseplay  
 
-**FR : 🇫🇷**  
-Wiseplay est une sorte d’IPTV et un lecteur multimédia polyvalent qui permet de lire des vidéos locales et des flux en streaming via des listes m3u et w3u. Compatible avec une large gamme de formats vidéo, cette application offre une interface simple et des fonctionnalités comme le support Chromecast, le mode VR et la lecture de contenus en haute qualité.  
+**FR : 🇫🇷**  Wiseplay est une sorte d’IPTV et un lecteur multimédia polyvalent qui permet de lire des vidéos locales et des flux en streaming via des listes m3u et w3u. Compatible avec une large gamme de formats vidéo, cette application offre une interface simple et des fonctionnalités comme le support Chromecast, le mode VR et la lecture de contenus en haute qualité.  
 
 *Note : Pour utiliser les fonctionnalités IPTV, utilisez cette liste*                                   
 *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
@@ -185,8 +174,7 @@ Wiseplay est une sorte d’IPTV et un lecteur multimédia polyvalent qui permet 
 
 **Accessibilité :** (Non-root)  
 
-**EN : 🇬🇧**  
-Wiseplay is a sort of IPTV and a versatile multimedia player that lets you play local videos and streaming content through m3u and w3u lists. Supporting a wide range of video formats, this app features a simple interface and options like Chromecast support, VR mode, and high-quality playback.  
+**EN : 🇬🇧**  Wiseplay is a sort of IPTV and a versatile multimedia player that lets you play local videos and streaming content through m3u and w3u lists. Supporting a wide range of video formats, this app features a simple interface and options like Chromecast support, VR mode, and high-quality playback.  
 
 *Note: To use IPTV features, use this list*
 *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  

@@ -41,6 +41,13 @@ YTDLnis is a powerful youtube-dl-based tool designed to download videos and audi
 **FR : 🇫🇷**  
 Aniyomi est une application open-source dérivée de Tachiyomi, conçue pour les amateurs de mangas et d’animes. Elle permet de lire des mangas et de regarder des animes depuis diverses sources, avec une interface personnalisable et un support pour les trackers comme MyAnimeList ou AniList.  
 
+
+*Note : Pour ajouter des extensions d’animés et de mangas, configurez ces liens dans les paramètres
+[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*
+
+*[https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*
+
+
 ### 🎯 Fonctionnalités  
 - 📚 Lecture de mangas depuis plusieurs sources  
 - 📺 Streaming d’animes avec un lecteur configurable (basé sur mpv-android)  
@@ -53,6 +60,12 @@ Aniyomi est une application open-source dérivée de Tachiyomi, conçue pour les
 **EN : 🇬🇧**  
 Aniyomi is an open-source app forked from Tachiyomi, tailored for manga and anime enthusiasts. It lets you read manga and watch anime from various sources, featuring a customizable interface and support for trackers like MyAnimeList or AniList.  
 
+*Note : To add anime and manga extensions, set these links in the settings
+[https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*
+
+*[https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*
+
+
 ### 🎯 Features  
 - 📚 Manga reading from multiple sources  
 - 📺 Anime streaming with a configurable player (based on mpv-android)  
@@ -63,6 +76,7 @@ Aniyomi is an open-source app forked from Tachiyomi, tailored for manga and anim
 **Accessibility:** (Non-root)  
 
 [😺 GitHub Link](https://github.com/aniyomiorg)  
+
 
 ---
 
@@ -184,4 +198,6 @@ Wiseplay is a sort of IPTV and a versatile multimedia player that lets you play 
 
 **Accessibility:** (Non-root)  
 
-[📲 Google Play](https://play.google.com/store/apps/details?id=com.wiseplay)
+[📲 Google Play](https://play.google.com/store/apps/details?id=com.wiseplay)  
+
+---

@@ -184,6 +184,4 @@ Wiseplay is a sort of IPTV and a versatile multimedia player that lets you play 
 
 **Accessibility:** (Non-root)  
 
-[📲 Google Play](https://play.google.com/store/apps/details?id=com.wiseplay)  
-
----
+[📲 Google Play](https://play.google.com/store/apps/details?id=com.wiseplay)

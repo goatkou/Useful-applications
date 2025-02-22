@@ -173,8 +173,8 @@ PPCine is a streaming app that lets you watch movies, series, and anime for free
 **FR : 🇫🇷**  
 Wiseplay est une sorte d’IPTV et un lecteur multimédia polyvalent qui permet de lire des vidéos locales et des flux en streaming via des listes m3u et w3u. Compatible avec une large gamme de formats vidéo, cette application offre une interface simple et des fonctionnalités comme le support Chromecast, le mode VR et la lecture de contenus en haute qualité.  
 
-*Note : Pour utiliser les fonctionnalités IPTV, utilisez cette liste 
-[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
+*Note : Pour utiliser les fonctionnalités IPTV, utilisez cette liste*                                   
+*[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
 
 ### 🎯 Fonctionnalités  
 - 📺 Lecture de vidéos locales et streaming via listes m3u/w3u  
@@ -188,8 +188,8 @@ Wiseplay est une sorte d’IPTV et un lecteur multimédia polyvalent qui permet 
 **EN : 🇬🇧**  
 Wiseplay is a sort of IPTV and a versatile multimedia player that lets you play local videos and streaming content through m3u and w3u lists. Supporting a wide range of video formats, this app features a simple interface and options like Chromecast support, VR mode, and high-quality playback.  
 
-*Note: To use IPTV features, use this list
-[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
+*Note: To use IPTV features, use this list*
+*[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
 
 ### 🎯 Features  
 - 📺 Playback of local videos and streaming via m3u/w3u lists  

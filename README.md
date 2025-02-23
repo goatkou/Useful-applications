@@ -59,7 +59,9 @@
 **FR : 🇫🇷** Aniyomi, fork de Tachiyomi, est conçu pour lire des mangas et regarder des animes depuis diverses sources avec trackers intégrés.  
 **EN : 🇬🇧** Aniyomi, a Tachiyomi fork, is tailored for reading manga and watching anime from various sources with integrated trackers.  
 
-> **🇫🇷 Note :** Ajoutez ces extensions dans les paramètres / **🇬🇧 Note:** Add these extensions in settings:  
+> **🇫🇷 Note :** Ajoutez ces extensions dans les paramètres
+>
+> **🇬🇧 Note:** Add these extensions in settings:  
 > - *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
 > - *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
 
@@ -133,7 +135,9 @@
 **FR : 🇫🇷** Wiseplay, lecteur multimédia et IPTV, lit vidéos locales et flux m3u/w3u avec Chromecast et VR.  
 **EN : 🇬🇧** Wiseplay, a multimedia and IPTV player, plays local videos and m3u/w3u streams with Chromecast and VR.  
 
-> **🇫🇷 Note :** Utilisez cette liste IPTV / **🇬🇧 Note:** Use this IPTV list:  
+> **🇫🇷 Note :** Utilisez cette liste IPTV
+>
+> **🇬🇧 Note:** Use this IPTV list:  
 > *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
 
 ### 🎯 Fonctionnalités / Features  

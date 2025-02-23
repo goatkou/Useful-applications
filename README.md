@@ -124,8 +124,7 @@
 **EN : 🇬🇧** PPCine offers free streaming of movies, series, and anime with a user-friendly interface, no subscription needed.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📺 Streaming HQ / HQ streaming  
-- 📥 Visionnage hors ligne / Offline viewing  
+- 📺 Streaming HQ / HQ streaming   
 - 🌐 Bibliothèque variée / Diverse library  
 - 📱 Compatible non-root / Non-root compatible  
 

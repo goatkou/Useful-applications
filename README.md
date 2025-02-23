@@ -1,137 +1,166 @@
 # 📱 Liste d'Applications Utiles Android / Useful Android Apps List
 
-**Bienvenue dans la liste des applications utiles Android ! Retrouvez ici quelques applications avec leurs fonctionnalités et options.**  
-**Welcome to the list of useful Android apps! Here are some apps with their features and options.**
+[![GitHub stars](https://img.shields.io/github/stars/ton-repo?style=social)](https://github.com/ton-repo)
+
+**🇫🇷 Bienvenue dans la liste des applications utiles Android ! Retrouvez ici une sélection d’applications pour améliorer votre expérience utilisateur.**  
+**🇬🇧 Welcome to the list of useful Android apps! Discover a selection of apps to enhance your user experience.**
+
+> **🇫🇷 Note :** Ces applications ne sont pas toutes affiliées à des stores officiels. Utilisez-les à vos propres risques et respectez les lois locales.  
+> **🇬🇧 Note:** Not all these apps are affiliated with official stores. Use them at your own risk and comply with local laws.
+
+## Table des matières / Table of Contents
+- [📦 Obtainium](#-obtainium)
+- [🎥 YTDLnis](#-ytdlnis)
+- [📚 Aniyomi](#-aniyomi)
+- [🎬 Animetail](#-animetail)
+- [📖 Mihon](#-mihon)
+- [🎞️ PPCine](#-ppcine)
+- [📡 Wiseplay](#-wiseplay)
 
 ---
 
-## Obtainium  
+## 📦 Obtainium  
 
-**FR : 🇫🇷** Obtainium est une application qui permet de gérer et de mettre à jour facilement des applications open-source directement depuis leurs sources officielles (comme GitHub). Elle est idéale pour ceux qui veulent éviter les stores traditionnels et garder leurs applications à jour automatiquement.  
+**FR : 🇫🇷** Obtainium permet de gérer et mettre à jour des apps open-source depuis leurs sources officielles (ex. : GitHub), idéal pour éviter les stores traditionnels.  
 
-**EN : 🇬🇧** Obtainium is an app that lets you manage and update open-source applications directly from their official sources (like GitHub). It’s perfect for those who want to bypass traditional app stores and keep their apps updated automatically.  
+**EN : 🇬🇧** Obtainium lets you manage and update open-source apps directly from their official sources (e.g., GitHub), perfect for bypassing app stores.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📥 Téléchargement et mise à jour d’applications depuis leurs sources officielles / Download and update apps from their official sources  
-- 🔄 Mises à jour automatiques configurables / Configurable automatic updates  
-- 🌐 Support pour GitHub et autres plateformes similaires / Support for GitHub and similar platforms  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📥 Téléchargement depuis sources officielles / Download from official sources  
+- 🔄 Mises à jour automatiques / Automatic updates  
+- 🌐 Support GitHub et plus / GitHub and more support  
+- 📱 Compatible non-root / Non-root compatible  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**🌐 Page Web / Web Page**](https://obtainium.imranr.dev/)
+
+[**🌐 Site officiel / Official Website**](https://obtainium.imranr.dev/)  
 
 ---
 
-## YTDLnis  
+## 🎥 YTDLnis  
 
-**FR : 🇫🇷** YTDLnis est un outil puissant basé sur youtube-dl, conçu pour télécharger des vidéos et de l'audio depuis diverses plateformes en ligne. Cette application offre une interface simplifiée et des options avancées pour récupérer du contenu multimédia rapidement et facilement. Le téléchargeur est compatible avec ReVanced et ReVanced Extended.  
+**FR : 🇫🇷** YTDLnis, basé sur youtube-dl, télécharge vidéos et audio depuis diverses plateformes, compatible avec ReVanced et ReVanced Extended.  
 
-**EN : 🇬🇧** YTDLnis is a powerful youtube-dl-based tool designed to download videos and audio from various online platforms. This app provides a streamlined interface and advanced options to retrieve multimedia content quickly and easily. The downloader is compatible with ReVanced and ReVanced Extended.  
+**EN : 🇬🇧** YTDLnis, based on youtube-dl, downloads videos and audio from various platforms, compatible with ReVanced and ReVanced Extended.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📥 Téléchargement de vidéos et audio depuis YouTube et autres plateformes / Download videos and audio from YouTube and other platforms  
-- 🎵 Extraction de l’audio en différents formats (MP3, AAC, etc.) / Audio extraction in various formats (MP3, AAC, etc.)  
-- ⚙️ Options de personnalisation pour la qualité et le format / Customization options for quality and format  
-- 🚀 Téléchargements rapides et simultanés / Fast and simultaneous downloads  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📥 Téléchargement vidéo/audio / Video/audio downloads  
+- 🎵 Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC)  
+- ⚙️ Personnalisation qualité / Quality customization  
+- 🚀 Téléchargements simultanés / Simultaneous downloads  
+- 📱 Compatible non-root / Non-root compatible  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**🌐 Page Web / Web Page**](https://ytdlnis.org/)  
+
+[**🌐 Site officiel / Official Website**](https://ytdlnis.org/)  
 
 ---
 
-## Aniyomi  
+## 📚 Aniyomi  
 
-**FR : 🇫🇷** Aniyomi est une application open-source dérivée de Tachiyomi, conçue pour les amateurs de mangas et d’animes. Elle permet de lire des mangas et de regarder des animes depuis diverses sources, avec une interface personnalisable et un support pour les trackers comme MyAnimeList ou AniList.  
+**FR : 🇫🇷** Aniyomi, fork de Tachiyomi, est conçu pour lire des mangas et regarder des animes depuis diverses sources avec trackers intégrés.  
 
-**EN : 🇬🇧** Aniyomi is an open-source app forked from Tachiyomi, tailored for manga and anime enthusiasts. It lets you read manga and watch anime from various sources, featuring a customizable interface and support for trackers like MyAnimeList or AniList.  
+**EN : 🇬🇧** Aniyomi, a Tachiyomi fork, is tailored for reading manga and watching anime from various sources with integrated trackers.  
 
-*Note : Pour ajouter des extensions d’animés et de mangas, configurez ces liens dans les paramètres / To add anime and manga extensions, set these links in the settings:*  
+*Note : Ajoutez ces extensions dans les paramètres / Add these extensions in settings:*  
 - *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
 - *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
 
 ### 🎯 Fonctionnalités / Features  
-- 📚 Lecture de mangas depuis plusieurs sources / Manga reading from multiple sources  
-- 📺 Streaming d’animes avec un lecteur configurable (basé sur mpv-android) / Anime streaming with a configurable player (based on mpv-android)  
-- 🔗 Support des trackers (MyAnimeList, AniList, Kitsu, etc.) / Tracker support (MyAnimeList, AniList, Kitsu, etc.)  
-- 🎨 Interface et lecteur hautement personnalisables / Highly customizable interface and player  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📚 Lecture de mangas / Manga reading  
+- 📺 Streaming d’animes / Anime streaming  
+- 🔗 Trackers (MAL, AniList) / Trackers (MAL, AniList)  
+- 🎨 Interface personnalisable / Customizable UI  
+- 📱 Compatible non-root / Non-root compatible  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**😺 Lien GitHub / GitHub Link**](https://github.com/aniyomiorg)  
+
+[**😺 GitHub**](https://github.com/aniyomiorg/aniyomi)  
 
 ---
 
-## Animetail  
+## 🎬 Animetail  
 
-**FR : 🇫🇷** Animetail est une fork non officielle d’Aniyomi, offrant des améliorations et des mises à jour fréquentes pour une expérience optimisée. Cette version se concentre sur la stabilité et l’ajout de fonctionnalités supplémentaires pour le streaming d’animes et la lecture de mangas.  
+**FR : 🇫🇷** Animetail, fork d’Aniyomi, optimise la stabilité et ajoute des fonctionnalités pour le streaming d’animes et la lecture de mangas.  
 
-**EN : 🇬🇧** Animetail is an unofficial fork of Aniyomi, delivering enhancements and frequent updates for an optimized experience. This version focuses on stability and additional features for anime streaming and manga reading.  
+**EN : 🇬🇧** Animetail, an Aniyomi fork, enhances stability and adds features for anime streaming and manga reading.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📚 Lecture de mangas avec sources variées / Manga reading with diverse sources  
-- 📺 Streaming d’animes avec options avancées / Anime streaming with advanced options  
-- 🔗 Support des trackers (MyAnimeList, AniList, etc.) / Tracker support (MyAnimeList, AniList, etc.)  
-- 🛠️ Améliorations de stabilité et performances / Stability and performance improvements  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📚 Sources variées de mangas / Diverse manga sources  
+- 📺 Streaming avancé / Advanced streaming  
+- 🔗 Support trackers / Tracker support  
+- 🛠️ Stabilité améliorée / Improved stability  
+- 📱 Compatible non-root / Non-root compatible  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**😺 Lien GitHub / GitHub Link**](https://github.com/Animetailapp)  
+
+[**😺 GitHub**](https://github.com/Animetailapp/Animetail)  
 
 ---
 
-## Mihon  
+## 📖 Mihon  
 
-**FR : 🇫🇷** Mihon est un fork de Tachiyomi, une application open-source populaire pour lire des mangas. Conçue pour offrir une expérience fluide et moderne, Mihon conserve les fonctionnalités de base de Tachiyomi tout en ajoutant des améliorations spécifiques comme une interface mise à jour et une meilleure compatibilité avec les nouvelles sources.  
+**FR : 🇫🇷** Mihon, fork de Tachiyomi, offre une interface moderne et fluide pour lire des mangas avec des sources mises à jour.  
 
-**EN : 🇬🇧** Mihon is a fork of Tachiyomi, a popular open-source app for reading manga. Designed to provide a smooth and modern experience, Mihon retains Tachiyomi’s core features while introducing specific enhancements like an updated interface and better compatibility with new sources.  
+**EN : 🇬🇧** Mihon, a Tachiyomi fork, provides a modern, smooth interface for reading manga with updated sources.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📚 Lecture de mangas depuis de nombreuses sources / Manga reading from numerous sources  
-- 🔗 Support des trackers (MyAnimeList, AniList, etc.) / Tracker support (MyAnimeList, AniList, etc.)  
-- 🎨 Interface moderne et personnalisable / Modern and customizable interface  
-- ⚡ Performances optimisées pour une navigation fluide / Optimized performance for smooth navigation  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📚 Nombreuses sources / Numerous sources  
+- 🔗 Trackers intégrés / Integrated trackers  
+- 🎨 Interface moderne / Modern UI  
+- ⚡ Navigation fluide / Smooth navigation  
+- 📱 Compatible non-root / Non-root compatible  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**😺 Lien GitHub / GitHub Link**](https://github.com/mihonapp)  
+
+[**😺 GitHub**](https://github.com/mihonapp/mihon)  
 
 ---
 
-## PPCine  
+## 🎞️ PPCine  
 
-**FR : 🇫🇷** PPCine est une application de streaming qui permet de regarder gratuitement des films, séries et animés sur votre appareil Android. Avec une interface conviviale, elle offre un accès à une vaste bibliothèque de contenus sans abonnement ni inscription, idéale pour les amateurs de divertissement sans frais.  
+**FR : 🇫🇷** PPCine propose le streaming gratuit de films, séries et animés avec une interface conviviale, sans abonnement.  
 
-**EN : 🇬🇧** PPCine is a streaming app that lets you watch movies, series, and anime for free on your Android device. Featuring a user-friendly interface, it provides access to a vast content library without subscription or registration, perfect for entertainment seekers on a budget.  
+**EN : 🇬🇧** PPCine offers free streaming of movies, series, and anime with a user-friendly interface, no subscription needed.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📺 Streaming de films, séries et animés en haute qualité / Streaming of movies, series, and anime in high quality  
-- 📥 Téléchargement de contenus pour un visionnage hors ligne / Content downloads for offline viewing  
-- 🌐 Bibliothèque variée sans restrictions régionales / Diverse library with no regional restrictions  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📺 Streaming HQ / HQ streaming  
+- 📥 Visionnage hors ligne / Offline viewing  
+- 🌐 Bibliothèque variée / Diverse library  
+- 📱 Compatible non-root / Non-root compatible  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**🌐 Page Web / Web Page**](http://www.ppcine.com/)  
+
+[**🌐 Site officiel / Official Website**](http://www.ppcine.com/)  
 
 ---
 
-## Wiseplay  
+## 📡 Wiseplay  
 
-**FR : 🇫🇷** Wiseplay est une sorte d’IPTV et un lecteur multimédia polyvalent qui permet de lire des vidéos locales et des flux en streaming via des listes m3u et w3u. Compatible avec une large gamme de formats vidéo, cette application offre une interface simple et des fonctionnalités comme le support Chromecast, le mode VR et la lecture de contenus en haute qualité.  
+**FR : 🇫🇷** Wiseplay, lecteur multimédia et IPTV, lit vidéos locales et flux m3u/w3u avec Chromecast et VR.  
 
-**EN : 🇬🇧** Wiseplay is a sort of IPTV and a versatile multimedia player that lets you play local videos and streaming content through m3u and w3u lists. Supporting a wide range of video formats, this app features a simple interface and options like Chromecast support, VR mode, and high-quality playback.  
+**EN : 🇬🇧** Wiseplay, a multimedia and IPTV player, plays local videos and m3u/w3u streams with Chromecast and VR.  
 
-*Note : Pour utiliser les fonctionnalités IPTV, utilisez cette liste / To use IPTV features, use this list:*  
+*Note : Utilisez cette liste IPTV / Use this IPTV list:*  
 *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
 
 ### 🎯 Fonctionnalités / Features  
-- 📺 Lecture de vidéos locales et streaming via listes m3u/w3u / Playback of local videos and streaming via m3u/w3u lists  
-- 📡 Support Chromecast et DLNA pour diffuser sur TV / Chromecast and DLNA support for TV casting  
-- 🎥 Compatible avec les formats HD, 4K et VR / Compatible with HD, 4K, and VR formats  
-- ⚙️ Interface simple avec options personnalisables / Simple interface with customizable options  
-- 📱 Compatible avec les appareils **non-root** / Compatible with **non-root** devices  
+- 📺 Lecture m3u/w3u / m3u/w3u playback  
+- 📡 Chromecast/DLNA / Chromecast/DLNA  
+- 🎥 HD, 4K, VR / HD, 4K, VR  
+- ⚙️ Options personnalisables / Customizable options  
+- 📱 Compatible non-root / Non-root compatible  
 
 **Accessibilité / Accessibility:** (Non-root)  
-[**▶️ Google Play**](https://play.google.com/store/apps/details?id=com.wiseplay)
+
+[**▶️ Google Play**](https://play.google.com/store/apps/details?id=com.wiseplay)  
 
 ---
+
+## 🤝 Contributions  
+**🇫🇷** Vous avez une suggestion ou une app à ajouter ? Ouvrez une issue ou une pull request sur le repo GitHub !  
+**🇬🇧** Have a suggestion or an app to add? Open an issue or pull request on the GitHub repo!
+
+---
+
+*Dernière mise à jour / Last updated: 23 février 2025*

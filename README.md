@@ -22,7 +22,6 @@
 ## 📦 Obtainium  
 
 **FR : 🇫🇷** Obtainium permet de gérer et mettre à jour des apps open-source depuis leurs sources officielles (ex. : GitHub), idéal pour éviter les stores traditionnels.  
-
 **EN : 🇬🇧** Obtainium lets you manage and update open-source apps directly from their official sources (e.g., GitHub), perfect for bypassing app stores.  
 
 ### 🎯 Fonctionnalités / Features  
@@ -40,7 +39,6 @@
 ## 🎥 YTDLnis  
 
 **FR : 🇫🇷** YTDLnis, basé sur youtube-dl, télécharge vidéos et audio depuis diverses plateformes, compatible avec ReVanced et ReVanced Extended.  
-
 **EN : 🇬🇧** YTDLnis, based on youtube-dl, downloads videos and audio from various platforms, compatible with ReVanced and ReVanced Extended.  
 
 ### 🎯 Fonctionnalités / Features  
@@ -59,12 +57,11 @@
 ## 📚 Aniyomi  
 
 **FR : 🇫🇷** Aniyomi, fork de Tachiyomi, est conçu pour lire des mangas et regarder des animes depuis diverses sources avec trackers intégrés.  
-
 **EN : 🇬🇧** Aniyomi, a Tachiyomi fork, is tailored for reading manga and watching anime from various sources with integrated trackers.  
 
-*Note : Ajoutez ces extensions dans les paramètres / Add these extensions in settings:*  
-- *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
-- *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
+> **🇫🇷 Note :** Ajoutez ces extensions dans les paramètres / **🇬🇧 Note:** Add these extensions in settings:  
+> - *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
+> - *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
 
 ### 🎯 Fonctionnalités / Features  
 - 📚 Lecture de mangas / Manga reading  
@@ -82,7 +79,6 @@
 ## 🎬 Animetail  
 
 **FR : 🇫🇷** Animetail, fork d’Aniyomi, optimise la stabilité et ajoute des fonctionnalités pour le streaming d’animes et la lecture de mangas.  
-
 **EN : 🇬🇧** Animetail, an Aniyomi fork, enhances stability and adds features for anime streaming and manga reading.  
 
 ### 🎯 Fonctionnalités / Features  
@@ -101,7 +97,6 @@
 ## 📖 Mihon  
 
 **FR : 🇫🇷** Mihon, fork de Tachiyomi, offre une interface moderne et fluide pour lire des mangas avec des sources mises à jour.  
-
 **EN : 🇬🇧** Mihon, a Tachiyomi fork, provides a modern, smooth interface for reading manga with updated sources.  
 
 ### 🎯 Fonctionnalités / Features  
@@ -120,11 +115,10 @@
 ## 🎞️ PPCine  
 
 **FR : 🇫🇷** PPCine propose le streaming gratuit de films, séries et animés avec une interface conviviale, sans abonnement.  
-
 **EN : 🇬🇧** PPCine offers free streaming of movies, series, and anime with a user-friendly interface, no subscription needed.  
 
 ### 🎯 Fonctionnalités / Features  
-- 📺 Streaming HQ / HQ streaming   
+- 📺 Streaming HQ / HQ streaming  
 - 🌐 Bibliothèque variée / Diverse library  
 - 📱 Compatible non-root / Non-root compatible  
 
@@ -137,11 +131,10 @@
 ## 📡 Wiseplay  
 
 **FR : 🇫🇷** Wiseplay, lecteur multimédia et IPTV, lit vidéos locales et flux m3u/w3u avec Chromecast et VR.  
-
 **EN : 🇬🇧** Wiseplay, a multimedia and IPTV player, plays local videos and m3u/w3u streams with Chromecast and VR.  
 
-*Note : Utilisez cette liste IPTV / Use this IPTV list:*  
-*[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
+> **🇫🇷 Note :** Utilisez cette liste IPTV / **🇬🇧 Note:** Use this IPTV list:  
+> *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
 
 ### 🎯 Fonctionnalités / Features  
 - 📺 Lecture m3u/w3u / m3u/w3u playback  

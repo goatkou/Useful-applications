@@ -9,22 +9,30 @@
 > **🇬🇧 Note:** Not all these apps are affiliated with official stores. Use them at your own risk and comply with local laws.
 
 ## Table des matières / Table of Contents
+
+### Gestion d’applications
 - [📦 Obtainium](#-obtainium)
+
+### Téléchargement et Streaming
 - [🎥 YTDLnis](#-ytdlnis)
-- [📚 Aniyomi](#-aniyomi)
-- [🎬 Animetail](#-animetail)
-- [📖 Mihon](#-mihon)
 - [🎞️ PPCine](#-ppcine)
 - [📡 Wiseplay](#-wiseplay)
 
+### Manga et Anime
+- [📚 Aniyomi](#-aniyomi)
+- [🎬 Animetail](#-animetail)
+- [📖 Mihon](#-mihon)
+
 ---
 
-## 📦 Obtainium  
+## Gestion d’applications
+
+### 📦 Obtainium  
 
 **FR : 🇫🇷** Obtainium permet de gérer et mettre à jour des apps open-source depuis leurs sources officielles (ex. : GitHub), idéal pour éviter les stores traditionnels.  
 **EN : 🇬🇧** Obtainium lets you manage and update open-source apps directly from their official sources (e.g., GitHub), perfect for bypassing app stores.  
 
-### 🎯 Fonctionnalités / Features  
+#### 🎯 Fonctionnalités / Features  
 - 📥 Téléchargement depuis sources officielles / Download from official sources  
 - 🔄 Mises à jour automatiques / Automatic updates  
 - 🌐 Support GitHub et plus / GitHub and more support  
@@ -36,12 +44,14 @@
 
 ---
 
-## 🎥 YTDLnis  
+## Téléchargement et Streaming
+
+### 🎥 YTDLnis  
 
 **FR : 🇫🇷** YTDLnis, basé sur youtube-dl, télécharge vidéos et audio depuis diverses plateformes, compatible avec ReVanced et ReVanced Extended.  
 **EN : 🇬🇧** YTDLnis, based on youtube-dl, downloads videos and audio from various platforms, compatible with ReVanced and ReVanced Extended.  
 
-### 🎯 Fonctionnalités / Features  
+#### 🎯 Fonctionnalités / Features  
 - 📥 Téléchargement vidéo/audio / Video/audio downloads  
 - 🎵 Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC)  
 - ⚙️ Personnalisation qualité / Quality customization  
@@ -54,18 +64,57 @@
 
 ---
 
-## 📚 Aniyomi  
+### 🎞️ PPCine  
+
+**FR : 🇫🇷** PPCine propose le streaming gratuit de films, séries et animés avec une interface conviviale, sans abonnement.  
+**EN : 🇬🇧** PPCine offers free streaming of movies, series, and anime with a user-friendly interface, no subscription needed.  
+
+#### 🎯 Fonctionnalités / Features  
+- 📺 Streaming HQ / HQ streaming  
+- 🌐 Bibliothèque variée / Diverse library  
+- 📱 Compatible non-root / Non-root compatible  
+
+**Accessibilité / Accessibility:** (Non-root)  
+
+[**🌐 Site officiel / Official Website**](http://www.ppcine.com/)  
+
+---
+
+### 📡 Wiseplay  
+
+**FR : 🇫🇷** Wiseplay, lecteur multimédia et IPTV, lit vidéos locales et flux m3u/w3u avec Chromecast et VR.  
+**EN : 🇬🇧** Wiseplay, a multimedia and IPTV player, plays local videos and m3u/w3u streams with Chromecast and VR.  
+
+> **🇫🇷 Note :** Utilisez cette liste IPTV  
+> **🇬🇧 Note:** Use this IPTV list:  
+> *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
+
+#### 🎯 Fonctionnalités / Features  
+- 📺 Lecture m3u/w3u / m3u/w3u playback  
+- 📡 Chromecast/DLNA / Chromecast/DLNA  
+- 🎥 HD, 4K, VR / HD, 4K, VR  
+- ⚙️ Options personnalisables / Customizable options  
+- 📱 Compatible non-root / Non-root compatible  
+
+**Accessibilité / Accessibility:** (Non-root)  
+
+[**▶️ Google Play**](https://play.google.com/store/apps/details?id=com.wiseplay)  
+
+---
+
+## Manga et Anime
+
+### 📚 Aniyomi  
 
 **FR : 🇫🇷** Aniyomi, fork de Tachiyomi, est conçu pour lire des mangas et regarder des animes depuis diverses sources avec trackers intégrés.  
 **EN : 🇬🇧** Aniyomi, a Tachiyomi fork, is tailored for reading manga and watching anime from various sources with integrated trackers.  
 
-> **🇫🇷 Note :** Ajoutez ces extensions dans les paramètres
->
+> **🇫🇷 Note :** Ajoutez ces extensions dans les paramètres  
 > **🇬🇧 Note:** Add these extensions in settings:  
 > - *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
 > - *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
 
-### 🎯 Fonctionnalités / Features  
+#### 🎯 Fonctionnalités / Features  
 - 📚 Lecture de mangas / Manga reading  
 - 📺 Streaming d’animes / Anime streaming  
 - 🔗 Trackers (MAL, AniList) / Trackers (MAL, AniList)  
@@ -78,12 +127,12 @@
 
 ---
 
-## 🎬 Animetail  
+### 🎬 Animetail  
 
 **FR : 🇫🇷** Animetail, fork d’Aniyomi, optimise la stabilité et ajoute des fonctionnalités pour le streaming d’animes et la lecture de mangas.  
 **EN : 🇬🇧** Animetail, an Aniyomi fork, enhances stability and adds features for anime streaming and manga reading.  
 
-### 🎯 Fonctionnalités / Features  
+#### 🎯 Fonctionnalités / Features  
 - 📚 Sources variées de mangas / Diverse manga sources  
 - 📺 Streaming avancé / Advanced streaming  
 - 🔗 Support trackers / Tracker support  
@@ -96,12 +145,12 @@
 
 ---
 
-## 📖 Mihon  
+### 📖 Mihon  
 
 **FR : 🇫🇷** Mihon, fork de Tachiyomi, offre une interface moderne et fluide pour lire des mangas avec des sources mises à jour.  
 **EN : 🇬🇧** Mihon, a Tachiyomi fork, provides a modern, smooth interface for reading manga with updated sources.  
 
-### 🎯 Fonctionnalités / Features  
+#### 🎯 Fonctionnalités / Features  
 - 📚 Nombreuses sources / Numerous sources  
 - 🔗 Trackers intégrés / Integrated trackers  
 - 🎨 Interface moderne / Modern UI  
@@ -114,42 +163,16 @@
 
 ---
 
-## 🎞️ PPCine  
-
-**FR : 🇫🇷** PPCine propose le streaming gratuit de films, séries et animés avec une interface conviviale, sans abonnement.  
-**EN : 🇬🇧** PPCine offers free streaming of movies, series, and anime with a user-friendly interface, no subscription needed.  
-
-### 🎯 Fonctionnalités / Features  
-- 📺 Streaming HQ / HQ streaming  
-- 🌐 Bibliothèque variée / Diverse library  
-- 📱 Compatible non-root / Non-root compatible  
-
-**Accessibilité / Accessibility:** (Non-root)  
-
-[**🌐 Site officiel / Official Website**](http://www.ppcine.com/)  
+## ⚠️ Risques et Précautions / Risks and Precautions  
+- **Téléchargements :** Utilisez uniquement les liens officiels fournis pour éviter les malwares.  
+- **Bannissements :** Certaines applications (ex. streaming non officiel) peuvent enfreindre les conditions d’utilisation des services.  
+- **Sécurité :** Vérifiez les permissions demandées par l’APK avant installation.  
+- **Légalité :** Respectez les lois locales ; certains contenus peuvent être soumis à des restrictions légales.
 
 ---
 
-## 📡 Wiseplay  
-
-**FR : 🇫🇷** Wiseplay, lecteur multimédia et IPTV, lit vidéos locales et flux m3u/w3u avec Chromecast et VR.  
-**EN : 🇬🇧** Wiseplay, a multimedia and IPTV player, plays local videos and m3u/w3u streams with Chromecast and VR.  
-
-> **🇫🇷 Note :** Utilisez cette liste IPTV
->
-> **🇬🇧 Note:** Use this IPTV list:  
-> *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
-
-### 🎯 Fonctionnalités / Features  
-- 📺 Lecture m3u/w3u / m3u/w3u playback  
-- 📡 Chromecast/DLNA / Chromecast/DLNA  
-- 🎥 HD, 4K, VR / HD, 4K, VR  
-- ⚙️ Options personnalisables / Customizable options  
-- 📱 Compatible non-root / Non-root compatible  
-
-**Accessibilité / Accessibility:** (Non-root)  
-
-[**▶️ Google Play**](https://play.google.com/store/apps/details?id=com.wiseplay)  
+## 🆕 Nouveautés / What’s New  
+- Mise en page améliorer
 
 ---
 

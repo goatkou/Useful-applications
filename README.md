@@ -36,7 +36,7 @@
 - 📥 Téléchargement depuis sources officielles / Download from official sources  
 - 🔄 Mises à jour automatiques / Automatic updates  
 - 🌐 Support GitHub et plus / GitHub and more support  
-- 📱 Compatible non-root / Non-root compatible  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -56,7 +56,7 @@
 - 🎵 Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC)  
 - ⚙️ Personnalisation qualité / Quality customization  
 - 🚀 Téléchargements simultanés / Simultaneous downloads  
-- 📱 Compatible non-root / Non-root compatible  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -72,7 +72,7 @@
 #### 🎯 Fonctionnalités / Features  
 - 📺 Streaming HQ / HQ streaming  
 - 🌐 Bibliothèque variée / Diverse library  
-- 📱 Compatible non-root / Non-root compatible  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -85,16 +85,12 @@
 **FR : 🇫🇷** Wiseplay, lecteur multimédia et IPTV, lit vidéos locales et flux m3u/w3u avec Chromecast et VR.  
 **EN : 🇬🇧** Wiseplay, a multimedia and IPTV player, plays local videos and m3u/w3u streams with Chromecast and VR.  
 
-> **🇫🇷 Note :** Utilisez cette liste IPTV  
-> **🇬🇧 Note:** Use this IPTV list:  
-> *[https://box.xtemus.com/?playlist=u256y494u21596x2](https://box.xtemus.com/?playlist=u256y494u21596x2)*  
-
 #### 🎯 Fonctionnalités / Features  
 - 📺 Lecture m3u/w3u / m3u/w3u playback  
 - 📡 Chromecast/DLNA / Chromecast/DLNA  
 - 🎥 HD, 4K, VR / HD, 4K, VR  
 - ⚙️ Options personnalisables / Customizable options  
-- 📱 Compatible non-root / Non-root compatible  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -109,17 +105,12 @@
 **FR : 🇫🇷** Aniyomi, fork de Tachiyomi, est conçu pour lire des mangas et regarder des animes depuis diverses sources avec trackers intégrés.  
 **EN : 🇬🇧** Aniyomi, a Tachiyomi fork, is tailored for reading manga and watching anime from various sources with integrated trackers.  
 
-> **🇫🇷 Note :** Ajoutez ces extensions dans les paramètres  
-> **🇬🇧 Note:** Add these extensions in settings:  
-> - *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
-> - *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
-
 #### 🎯 Fonctionnalités / Features  
 - 📚 Lecture de mangas / Manga reading  
 - 📺 Streaming d’animes / Anime streaming  
 - 🔗 Trackers (MAL, AniList) / Trackers (MAL, AniList)  
 - 🎨 Interface personnalisable / Customizable UI  
-- 📱 Compatible non-root / Non-root compatible  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -137,7 +128,7 @@
 - 📺 Streaming avancé / Advanced streaming  
 - 🔗 Support trackers / Tracker support  
 - 🛠️ Stabilité améliorée / Improved stability  
-- 📱 Compatible non-root / Non-root compatible  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -155,7 +146,7 @@
 - 🔗 Trackers intégrés / Integrated trackers  
 - 🎨 Interface moderne / Modern UI  
 - ⚡ Navigation fluide / Smooth navigation  
-- 📱 Compatible non-root / Non-root compatible  
+- 📱 Non-root uniquement / Non-root only  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -172,7 +163,7 @@
 ---
 
 ## 🆕 Nouveautés / What’s New  
-- Mise en page améliorer
+- Mise en page améliorée.
 
 ---
 
@@ -182,4 +173,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 23 février 2025*
+*Dernière mise à jour / Last updated: 24 février 2025*

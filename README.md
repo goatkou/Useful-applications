@@ -114,6 +114,12 @@
 
 **Accessibilité / Accessibility:** (Non-root)  
 
+> **🇫🇷 Note:** Ajoutez ces extensions dans les paramètres  
+> **🇬🇧 Note:** Add these extensions in settings:  
+> - *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
+> - *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
+
+
 [**😺 GitHub**](https://github.com/aniyomiorg/aniyomi)  
 
 ---

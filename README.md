@@ -36,7 +36,7 @@
 - 📥 Téléchargement depuis sources officielles / Download from official sources  
 - 🔄 Mises à jour automatiques / Automatic updates  
 - 🌐 Support GitHub et plus / GitHub and more support  
-- 📱 Non-root uniquement / Non-root only  
+- ⚙️ Options de personnalisation / Customization options  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -56,7 +56,7 @@
 - 🎵 Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC)  
 - ⚙️ Personnalisation qualité / Quality customization  
 - 🚀 Téléchargements simultanés / Simultaneous downloads  
-- 📱 Non-root uniquement / Non-root only  
+- ⚡ Téléchargements rapides / Fast downloads  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -72,7 +72,7 @@
 #### 🎯 Fonctionnalités / Features  
 - 📺 Streaming HQ / HQ streaming  
 - 🌐 Bibliothèque variée / Diverse library  
-- 📱 Non-root uniquement / Non-root only  
+- 🎨 Interface intuitive / Intuitive UI  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -90,7 +90,7 @@
 - 📡 Chromecast/DLNA / Chromecast/DLNA  
 - 🎥 HD, 4K, VR / HD, 4K, VR  
 - ⚙️ Options personnalisables / Customizable options  
-- 📱 Non-root uniquement / Non-root only  
+- 📂 Gestion des playlists / Playlist management  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -110,7 +110,7 @@
 - 📺 Streaming d’animes / Anime streaming  
 - 🔗 Trackers (MAL, AniList) / Trackers (MAL, AniList)  
 - 🎨 Interface personnalisable / Customizable UI  
-- 📱 Non-root uniquement / Non-root only  
+- ⏬ Téléchargeur externe compatible / Compatible external downloader  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -134,7 +134,7 @@
 - 📺 Streaming avancé / Advanced streaming  
 - 🔗 Support trackers / Tracker support  
 - 🛠️ Stabilité améliorée / Improved stability  
-- 📱 Non-root uniquement / Non-root only  
+- 🔘 Personnalisation de boutons / Customize buttons
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -152,7 +152,7 @@
 - 🔗 Trackers intégrés / Integrated trackers  
 - 🎨 Interface moderne / Modern UI  
 - ⚡ Navigation fluide / Smooth navigation  
-- 📱 Non-root uniquement / Non-root only  
+- 📑 Gestion des favoris / Favorites management  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
@@ -179,4 +179,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 24 février 2025*
+*Dernière mise à jour / Last updated: 26 février 2025*

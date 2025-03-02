@@ -19,7 +19,7 @@
 - [📡 Wiseplay](#-wiseplay)
 
 ### Manga et Anime
-- [📚 Aniyomi](#-aniyomi)
+- [🎬 KiboAnime](#-kiboanime)
 - [🎬 Animetail](#-animetail)
 - [📖 Mihon](#-mihon)
 
@@ -100,27 +100,21 @@
 
 ## Manga et Anime
 
-### 📚 Aniyomi  
+### 🎬 KiboAnime  
 
-**FR : 🇫🇷** Aniyomi, fork de Tachiyomi, est conçu pour lire des mangas et regarder des animes depuis diverses sources avec trackers intégrés.  
-**EN : 🇬🇧** Aniyomi, a Tachiyomi fork, is tailored for reading manga and watching anime from various sources with integrated trackers.  
+**FR : 🇫🇷** KiboAnime est une application de streaming d’anime gratuite qui regroupe le catalogue d'**Anime-Sama** et **FrAnime**, offrant ainsi un large choix d'animes en VF et VOSTFR. Son interface fluide et intuitive permet de naviguer facilement parmi les épisodes et de suivre ses séries favorites.  
+**EN : 🇬🇧** KiboAnime is a free anime streaming app that combines the catalogs of **Anime-Sama** and **FrAnime**, providing a vast selection of anime in French (VF) and original version with subtitles (VOSTFR). Its smooth and intuitive interface makes it easy to browse episodes and keep track of favorite series.  
 
 #### 🎯 Fonctionnalités / Features  
-- 📚 Lecture de mangas / Manga reading  
-- 📺 Streaming d’animes / Anime streaming  
-- 🔗 Trackers (MAL, AniList) / Trackers (MAL, AniList)  
-- 🎨 Interface personnalisable / Customizable UI  
-- ⏬ Téléchargeur externe compatible / Compatible external downloader  
+- 📺 **Accès à un large catalogue** (Anime-Sama & FrAnime) / Access to a vast catalog (Anime-Sama & FrAnime)  
+- 🔎 **Recherche rapide** et navigation fluide / Fast search and smooth navigation  
+- 🌟 **Suivi des épisodes** et reprise automatique / Episode tracking and auto-resume  
+- 🎨 **Interface optimisée** pour mobile / Mobile-optimized interface  
+- 🚀 **Mises à jour régulières** avec nouveaux épisodes / Frequent updates with new episodes  
 
 **Accessibilité / Accessibility:** (Non-root)  
 
-> **🇫🇷 Note:** Ajoutez ces extensions dans les paramètres  
-> **🇬🇧 Note:** Add these extensions in settings:  
-> - *Animes: [https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)*  
-> - *Mangas: [https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)*  
-
-
-[**😺 GitHub**](https://github.com/aniyomiorg/aniyomi)  
+[**🌐 Site officiel / Official Website**](https://kiboanime.app/)  
 
 ---
 
@@ -160,23 +154,15 @@
 
 ---
 
-## ⚠️ Risques et Précautions / Risks and Precautions  
-- **Téléchargements :** Utilisez uniquement les liens officiels fournis pour éviter les malwares.  
-- **Bannissements :** Certaines applications (ex. streaming non officiel) peuvent enfreindre les conditions d’utilisation des services.  
-- **Sécurité :** Vérifiez les permissions demandées par l’APK avant installation.  
-- **Légalité :** Respectez les lois locales ; certains contenus peuvent être soumis à des restrictions légales.
-
----
-
 ## 🆕 Nouveautés / What’s New  
+- Remplacement d’Aniyomi par KiboAnime.  
 - Mise en page améliorée.
 
 ---
 
 ## 🤝 Contributions  
-**🇫🇷** Vous avez une suggestion ou une app à ajouter ? Ouvrez une issue ou une pull request sur le repo GitHub !  
-**🇬🇧** Have a suggestion or an app to add? Open an issue or pull request on the GitHub repo!
+Ouvrez une issue ou une pull request sur le repo GitHub !
 
 ---
 
-*Dernière mise à jour / Last updated: 26 février 2025*
+*Dernière mise à jour / Last updated: 2 mars 2025*

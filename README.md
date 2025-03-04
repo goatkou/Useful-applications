@@ -134,6 +134,15 @@
 
 [**😺 GitHub**](https://github.com/Animetailapp/Animetail)  
 
+> **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Animetail**, ajoutez ces liens dans les paramètres
+>
+> **🇬🇧 Note :** To access **Anime/Manga** extensions on **Animetail**, add these links in the settings:  
+
+> • **Animes / Anime** : [Kohi-den](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)  
+> • **Mangas / Manga** : [Keiyoushi](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
+
+ 
+ 
 ---
 
 ### 📖 Mihon  
@@ -154,7 +163,8 @@
 
 ---
 
-## 🆕 Nouveautés / What’s New  
+## 🆕 Nouveautés / What’s New 
+- Re-ajout de la note pour les extensions Animetail
 - Remplacement d’Aniyomi par KiboAnime.  
 - Mise en page améliorée.
 
@@ -165,4 +175,4 @@ Ouvrez une issue ou une pull request sur le repo GitHub !
 
 ---
 
-*Dernière mise à jour / Last updated: 2 mars 2025*
+*Dernière mise à jour / Last updated: 4 mars 2025*

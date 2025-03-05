@@ -1,31 +1,31 @@
-# 📱 Liste d'Applications Utiles Android / Useful Android Apps List
+# 📱 Liste d'Applications Utiles Android / Useful Android Apps List 🌟
 
 [![GitHub stars](https://img.shields.io/github/stars/ton-repo?style=social)](https://github.com/ton-repo)
 
 **🇫🇷 Bienvenue dans la liste des applications utiles Android ! Retrouvez ici une sélection d’applications pour améliorer votre expérience utilisateur.**  
-**🇬🇧 Welcome to the list of useful Android apps! Discover a selection of apps to enhance your user experience.**
+**🇬🇧 Welcome to the list of useful Android apps! Discover a selection of apps to enhance your user experience.** ✨
 
-> **🇫🇷 Note :** Ces applications ne sont pas toutes affiliées à des stores officiels. Utilisez-les à vos propres risques et respectez les lois locales.  
-> **🇬🇧 Note:** Not all these apps are affiliated with official stores. Use them at your own risk and comply with local laws.
+> **🇫🇷 Note :** Ces applications ne sont pas toutes affiliées à des stores officiels. Utilisez-les à vos propres risques et respectez les lois locales. ⚠️  
+> **🇬🇧 Note:** Not all these apps are affiliated with official stores. Use them at your own risk and comply with local laws. ⚠️
 
-## Table des matières / Table of Contents
+## Table des matières / Table of Contents 📑
 
-### Gestion d’applications
+### Gestion d’applications 🛠️
 - [📦 Obtainium](#-obtainium)
 
-### Téléchargement et Streaming
+### Téléchargement et Streaming 🎬
 - [🎥 YTDLnis](#-ytdlnis)
 - [🎞️ PPCine](#-ppcine)
 - [📡 Wiseplay](#-wiseplay)
 
-### Manga et Anime
+### Manga et Anime 🍥
 - [🎬 KiboAnime](#-kiboanime)
 - [🎬 Animetail](#-animetail)
 - [📖 Mihon](#-mihon)
 
 ---
 
-## Gestion d’applications
+## Gestion d’applications ⚙️
 
 ### 📦 Obtainium  
 
@@ -38,13 +38,12 @@
 - 🌐 Support GitHub et plus / GitHub and more support  
 - ⚙️ Options de personnalisation / Customization options  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](https://obtainium.imranr.dev/)  
 
 ---
 
-## Téléchargement et Streaming
+## Téléchargement et Streaming 📺
 
 ### 🎥 YTDLnis  
 
@@ -58,8 +57,7 @@
 - 🚀 Téléchargements simultanés / Simultaneous downloads  
 - ⚡ Téléchargements rapides / Fast downloads  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](https://ytdlnis.org/)  
 
 ---
@@ -74,8 +72,7 @@
 - 🌐 Bibliothèque variée / Diverse library  
 - 🎨 Interface intuitive / Intuitive UI  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](http://www.ppcine.com/)  
 
 ---
@@ -92,13 +89,12 @@
 - ⚙️ Options personnalisables / Customizable options  
 - 📂 Gestion des playlists / Playlist management  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**▶️ Google Play**](https://play.google.com/store/apps/details?id=com.wiseplay)  
 
 ---
 
-## Manga et Anime
+## Manga et Anime 🌸
 
 ### 🎬 KiboAnime  
 
@@ -112,8 +108,7 @@
 - 🎨 **Interface optimisée** pour mobile / Mobile-optimized interface  
 - 🚀 **Mises à jour régulières** avec nouveaux épisodes / Frequent updates with new episodes  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](https://kiboanime.app/)  
 
 ---
@@ -128,21 +123,17 @@
 - 📺 Streaming avancé / Advanced streaming  
 - 🔗 Support trackers / Tracker support  
 - 🛠️ Stabilité améliorée / Improved stability  
-- 🔘 Personnalisation de boutons / Customize buttons
+- 🔘 Personnalisation de boutons / Customize buttons  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**😺 GitHub**](https://github.com/Animetailapp/Animetail)  
 
-> **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Animetail**, ajoutez ces liens dans les paramètres
->
-> **🇬🇧 Note :** To access **Anime/Manga** extensions on **Animetail**, add these links in the settings:  
+> **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Animetail**, ajoutez ces liens dans les paramètres ℹ️  
+> **🇬🇧 Note :** To access **Anime/Manga** extensions on **Animetail**, add these links in the settings: ℹ️  
 
-> • **Animes / Anime** : [Kohi-den](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)  
-> • **Mangas / Manga** : [Keiyoushi](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
+> • **Animes** : [Kohi-den](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)  
+> • **Mangas** : [Keiyoushi](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
 
- 
- 
 ---
 
 ### 📖 Mihon  
@@ -157,22 +148,21 @@
 - ⚡ Navigation fluide / Smooth navigation  
 - 📑 Gestion des favoris / Favorites management  
 
-**Accessibilité / Accessibility:** (Non-root)  
-
+**Accessibilité / Accessibility:** (Non-root) 🔓  
 [**😺 GitHub**](https://github.com/mihonapp/mihon)  
 
 ---
 
-## 🆕 Nouveautés / What’s New 
-- Re-ajout de la note pour les extensions Animetail
+## 🆕 Nouveautés / What’s New  
+- Réintégration de la note pour les extensions Animetail  
 - Remplacement d’Aniyomi par KiboAnime.  
-- Mise en page améliorée.
+- Mise en page améliorée  
 
 ---
 
-## 🤝 Contributions  
+## 🤝 Contributions 🙌  
 Ouvrez une issue ou une pull request sur le repo GitHub !
 
 ---
 
-*Dernière mise à jour / Last updated: 4 mars 2025*
+*Dernière mise à jour / Last updated: 5 mars 2025* ⏰

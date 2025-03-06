@@ -151,7 +151,8 @@
 
 ---
 
-## 📜 Historique des mises à jour / Changelog  
+## 📜 Historique des mises à jour / Changelog 
+- **6 mars 2025** : Mise en page ameliorée
 - **2 mars 2025** : Ajout de KiboAnime, réintégration de la note pour les extensions Animetail, et mise à jour de la structure.   
 - **22 février 2025** : Création initiale du README.
 

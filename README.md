@@ -34,7 +34,7 @@
 - 🌐 Support GitHub et plus / GitHub and more support  
 - ⚙️ Options de personnalisation / Customization options  
 
-**Accessibilité / Accessibility:** (Non-root) 🔓  
+**Compatibilité / Compatibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](https://obtainium.imranr.dev/)  
 
 ---
@@ -52,7 +52,7 @@
 - 🚀 Téléchargements simultanés / Simultaneous downloads  
 - ⚡ Téléchargements rapides / Fast downloads  
 
-**Accessibilité / Accessibility:** (Non-root) 🔓  
+**Compatibilité / Compatibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](https://ytdlnis.org/)  
 
 ---
@@ -66,7 +66,7 @@
 - 🌐 Bibliothèque variée / Diverse library  
 - 🎨 Interface intuitive / Intuitive UI  
 
-**Accessibilité / Accessibility:** (Non-root) 🔓  
+**Compatibilité / Compatibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](http://www.ppcine.com/)  
 
 ---
@@ -82,7 +82,7 @@
 - ⚙️ Options personnalisables / Customizable options  
 - 📂 Gestion des playlists / Playlist management  
 
-**Accessibilité / Accessibility:** (Non-root) 🔓  
+**Compatibilité / Compatibility:** (Non-root) 🔓  
 [**▶️ Google Play**](https://play.google.com/store/apps/details?id=com.wiseplay)  
 
 ---
@@ -100,7 +100,7 @@
 - 🎨 **Interface optimisée** pour mobile / Mobile-optimized interface  
 - 🚀 **Mises à jour régulières** avec nouveaux épisodes / Frequent updates with new episodes  
 
-**Accessibilité / Accessibility:** (Non-root) 🔓  
+**Compatibilité / Compatibility:** (Non-root) 🔓  
 [**🌐 Site officiel / Official Website**](https://kiboanime.app/)  
 
 ---
@@ -116,7 +116,7 @@
 - 🛠️ Stabilité améliorée / Improved stability  
 - 🔘 Personnalisation de boutons / Customize buttons  
 
-**Accessibilité / Accessibility:** (Non-root) 🔓  
+**Compatibilité / Compatibility:** (Non-root) 🔓  
 [**😺 GitHub**](https://github.com/Animetailapp/Animetail)  
 
 > **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Animetail**, ajoutez ces liens dans les paramètres ℹ️  
@@ -138,7 +138,7 @@
 - ⚡ Navigation fluide / Smooth navigation  
 - 📑 Gestion des favoris / Favorites management  
 
-**Accessibilité / Accessibility:** (Non-root) 🔓  
+**Compatibilité / Compatibility:** (Non-root) 🔓  
 [**😺 GitHub**](https://github.com/mihonapp/mihon)  
 
 ---
@@ -151,9 +151,9 @@
 
 ---
 
-## 📜 Historique des mises à jour / Changelog 
-- **6 mars 2025** : Mise en page ameliorée
-- **2 mars 2025** : Ajout de KiboAnime, réintégration de la note pour les extensions Animetail, et mise à jour de la structure.   
+## 📜 Historique des mises à jour / Changelog  
+- **6 mars 2025** : Mise en page améliorée  
+- **2 mars 2025** : Ajout de KiboAnime, réintégration de la note pour les extensions Animetail, et mise à jour de la structure.  
 - **22 février 2025** : Création initiale du README.
 
 ---
@@ -165,5 +165,4 @@
 
 ---
 
-*Dernière mise à jour / Last updated: 5 mars 2025* ⏰  
-*Maintenu par / Maintained by: [ton-repo](https://github.com/ton-repo)*
+*Dernière mise à jour / Last updated: 6 mars 2025* ⏰

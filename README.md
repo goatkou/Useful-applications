@@ -161,7 +161,7 @@
 ## 🤝 Contributions  
 **🇫🇷** Une suggestion ou une appli à proposer ? Ouvre une issue ou une pull request sur GitHub !  
 **🇬🇧** Got a suggestion or app to add? Open an issue or pull request on GitHub!  
-[**📤 Soumettre une idée / Submit an idea**](https://github.com/ton-repo/issues/new)
+[**📤 Soumettre une idée / Submit an idea**](https://github.com/goatkou/Useful-applications/pulls)
 
 ---
 

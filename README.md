@@ -16,7 +16,7 @@
 - [🛠️ Gestion d’applications](#️-gestion-dapplications)  
 - [🎬 Téléchargement et Streaming](#-téléchargement-et-streaming)  
 - [🍥 Manga et Anime](#-manga-et-anime)  
-- [🚨 Risques et Précautions](#️-risques-et-précautions)  
+- [🚨 Risques et Précautions](#-risques-et-précautions)  
 - [📜 Historique des mises à jour / Changelog](#-historique-des-mises-à-jour--changelog)  
 - [🤝 Contributions](#-contributions)
 

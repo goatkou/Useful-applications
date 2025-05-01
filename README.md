@@ -85,6 +85,32 @@
 **Compatibilité / Compatibility:** Non-root 🔓  
 [**▶️ Google Play**](https://play.google.com/store/apps/details?id=com.wiseplay)  
 
+> **FR : 🇫🇷 Note :** Pour accéder aux chaînes IPTV sur **Wiseplay**, ajoutez ce lien dans les paramètres ℹ️  
+> **EN : 🇬🇧 Note :** To access IPTV channels on **Wiseplay**, add this link in the settings: ℹ️  
+
+> • **Chaînes IPTV** : [Liste chaîne IPTV](https://box.xtemus.com/?playlist=u256y494u21596x2)
+
+---
+
+ ### 📡 Lokke  
+**FR : 🇫🇷** Lokke est un lecteur multimédia et IPTV pour Android, permettant de lire des vidéos locales et des flux en streaming comme m3u/w3u, avec une interface fluide et des options avancées.  
+**EN : 🇬🇧** Lokke is an Android multimedia and IPTV player, supporting local videos and streaming links like m3u/w3u, with a smooth interface and advanced features.  
+
+#### 🎯 Fonctionnalités / Features  
+- 📺 Lecture de flux / Playback of streams 
+- ⚙️ Options de personnalisation (sous-titres, qualité) / Customization options (subtitles, quality)  
+- 🌐 Compatibilité avec Chromecast et DLNA / Chromecast and DLNA support  
+- 🎨 Interface intuitive et fluide / Intuitive and smooth interface  
+
+**Compatibilité / Compatibility:** Non-root 🔓  
+[🌐 Site officiel / Official Website](https://www.lokke.app/download)
+
+> **FR : 🇫🇷 Note :** Pour accéder aux chaînes TV sur **Lokke**, ajoutez ces liens dans la barre de recherche ℹ️  
+> **EN : 🇬🇧 Note :** To access TV channels on **Lokke**, add these links in search bar: ℹ️  
+>  
+> • **Chaînes TV** : [Vavoo.to](https://vavoo.to)  
+> • **Chaînes TV** : [Kool.to](https://kool.to)
+
 ---
 
 ## 🍥 Manga et Anime
@@ -152,7 +178,7 @@
 ---
 
 ## 📜 Historique des mises à jour / Changelog  
-- **6 mars 2025** : Mise en page améliorée  
+- **1 mai 2025** : Ajout liste IPTV pour Wiseplay, ajout de Lokke
 - **2 mars 2025** : Ajout de KiboAnime, réintégration de la note pour les extensions Animetail, et mise à jour de la structure.  
 - **22 février 2025** : Création initiale du README.
 

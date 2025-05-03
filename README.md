@@ -115,9 +115,9 @@
 
 ## 🍥 Manga et Anime
 
-### 🎬 KiboAnime  
-**FR : 🇫🇷** KiboAnime est une application de streaming d’anime gratuite qui regroupe le catalogue d'**Anime-Sama** et **FrAnime**, offrant ainsi un large choix d'animes en VF et VOSTFR. Son interface fluide et intuitive permet de naviguer facilement parmi les épisodes et de suivre ses séries favorites.  
-**EN : 🇬🇧** KiboAnime is a free anime streaming app that combines the catalogs of **Anime-Sama** and **FrAnime**, providing a vast selection of anime in French (VF) and original version with subtitles (VOSTFR). Its smooth and intuitive interface makes it easy to browse episodes and keep track of favorite series.  
+### 🎬 Kibo  
+**FR : 🇫🇷** Kibo est une application de streaming d’anime gratuite qui regroupe le catalogue d'**Anime-Sama** et **FrAnime**, offrant ainsi un large choix d'animes en VF et VOSTFR. Son interface fluide et intuitive permet de naviguer facilement parmi les épisodes et de suivre ses séries favorites.  
+**EN : 🇬🇧** Kibo is a free anime streaming app that combines the catalogs of **Anime-Sama** and **FrAnime**, providing a vast selection of anime in French (VF) and original version with subtitles (VOSTFR). Its smooth and intuitive interface makes it easy to browse episodes and keep track of favorite series.  
 
 #### 🎯 Fonctionnalités / Features  
 - 📺 **Accès à un large catalogue** (Anime-Sama & FrAnime) / Access to a vast catalog (Anime-Sama & FrAnime)  

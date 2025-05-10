@@ -24,6 +24,8 @@
 
 ---
 
+<div align="center"> 
+
 ## 📑 Table des matières / Table of Contents
 
 <div align="center">
@@ -61,8 +63,6 @@
 | 🔄 | Mises à jour automatiques / Automatic updates |
 | 🌐 | Support GitHub et plus / GitHub and more support |
 | ⚙️ | Options de personnalisation / Customization options |
-
-<div align="center"> 
   
 **Compatibilité / Compatibility:** Non-root 🔓  
 [**🌐 Site officiel / Official Website**](https://obtainium.imranr.dev/)

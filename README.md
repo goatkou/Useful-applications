@@ -46,7 +46,7 @@
 ### 📦 Obtainium
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open\_Source-App_Manager-green?style=for-the-badge" alt="Open Source App Manager"/>
+  <img src="https://img.shields.io/badge/Open_Source-App_Manager-green?style=for-the-badge" alt="Open Source App Manager"/>
 </div>
 
 **🇫🇷** Obtainium permet de gérer et mettre à jour des apps open-source depuis leurs sources officielles (ex. : GitHub), idéal pour éviter les stores traditionnels.  

@@ -242,7 +242,7 @@
 [**😺 GitHub**](https://github.com/Animetailapp/Animetail)
 
 <details>
-<summary>🔌 Extensions / Extensions</summary>
+<summary>🔌 Extensions</summary>
 
 > **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Animetail**, ajoutez ces liens dans les paramètres  
 > **🇬🇧 Note:** To access **Anime/Manga** extensions on **Animetail**, add these links in the settings:

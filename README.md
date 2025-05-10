@@ -14,9 +14,13 @@
 
 **🇬🇧 Welcome to the list of useful Android apps!** Discover a selection of apps to enhance your user experience. ✨
 
-> **⚠️ Note :**  
-> **🇫🇷** Ces applications ne sont pas toutes affiliées à des stores officiels. Utilisez-les à vos propres risques et respectez les lois locales.  
+<div align="center"> 
+    <img src="https://img.shields.io/badge/⚠️ Avertissement / Disclamer-yellow?style=for-the-badge&logo=&logoColor=white" alt="Avertissement"/>
+  
+> **🇫🇷** Ces applications ne sont pas toutes affiliées à des stores officiels. Utilisez-les à vos propres risques et respectez les lois locales.
+> 
 > **🇬🇧** Not all these apps are affiliated with official stores. Use them at your own risk and comply with local laws.
+</div>
 
 ---
 
@@ -42,7 +46,7 @@
 ### 📦 Obtainium
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open_Source-App_Manager-green?style=for-the-badge" alt="Open Source App Manager"/>
+  <img src="https://img.shields.io/badge/Open\_Source-App_Manager-green?style=for-the-badge" alt="Open Source App Manager"/>
 </div>
 
 **🇫🇷** Obtainium permet de gérer et mettre à jour des apps open-source depuis leurs sources officielles (ex. : GitHub), idéal pour éviter les stores traditionnels.  
@@ -58,8 +62,11 @@
 | 🌐 | Support GitHub et plus / GitHub and more support |
 | ⚙️ | Options de personnalisation / Customization options |
 
+<div align="center"> 
+  
 **Compatibilité / Compatibility:** Non-root 🔓  
 [**🌐 Site officiel / Official Website**](https://obtainium.imranr.dev/)
+
 
 ---
 
@@ -188,12 +195,12 @@
 ### 🎬 Kibo
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Anime-Streaming-FF6B6B?style=for-the-badge" alt="Anime Streaming"/>
+  <img src="https://img.shields.io/badge/Anime_Manga-Reader-FF6B6B?style=for-the-badge" alt="Anime/Manga Streaming"/>
 </div>
 
-**🇫🇷** Kibo est une application de streaming d'anime gratuite qui regroupe le catalogue d'**Anime-Sama** et **FrAnime**, offrant ainsi un large choix d'animes en VF et VOSTFR. Son interface fluide et intuitive permet de naviguer facilement parmi les épisodes et de suivre ses séries favorites.  
+**🇫🇷** Kibo est une application de streaming d'anime gratuite qui regroupe le catalogue d'**Anime-Sama** et **FrAnime**, offrant ainsi un large choix d'animes en VF et VOSTFR ainsi que des scans mangas. Son interface fluide et intuitive permet de naviguer facilement parmi les épisodes/scans et de suivre ses séries favorites.  
 
-**🇬🇧** Kibo is a free anime streaming app that combines the catalogs of **Anime-Sama** and **FrAnime**, providing a vast selection of anime in French (VF) and original version with subtitles (VOSTFR). Its smooth and intuitive interface makes it easy to browse episodes and keep track of favorite series.  
+**🇬🇧** Kibo is a free anime streaming app that combines the catalogs of **Anime-Sama** and **FrAnime**, providing a vast selection of anime in French (VF) and original version with subtitles (VOSTFR) as well as manga scans. Its smooth and intuitive interface makes it easy to browse episodes/manga scans and keep track of favorite series.  
 
 #### 🎯 Fonctionnalités / Features
 
@@ -204,6 +211,7 @@
 | 🌟 | **Suivi des épisodes** et reprise automatique / Episode tracking and auto-resume |
 | 🎨 | **Interface optimisée** pour mobile / Mobile-optimized interface |
 | 🚀 | **Mises à jour régulières** avec nouveaux épisodes / Frequent updates with new episodes |
+| 📚 | Possibilité de lire des mangas / Possibility to read manga
 
 **Compatibilité / Compatibility:** Non-root 🔓  
 [**🌐 Site officiel / Official Website**](https://kiboanime.app/)
@@ -213,7 +221,7 @@
 ### 🎬 Animetail
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Manga_&_Anime-Reader-9B59B6?style=for-the-badge" alt="Manga & Anime Reader"/>
+  <img src="https://img.shields.io/badge/Anime_Manga-Reader-9B59B6?style=for-the-badge" alt="Manga & Anime Reader"/>
 </div>
 
 **🇫🇷** Animetail, fork d'Aniyomi, optimise la stabilité et ajoute des fonctionnalités pour le streaming d'animes et la lecture de mangas.  
@@ -274,11 +282,12 @@
 ## 🚨 Risques et Précautions
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SECURITY-WARNING-red?style=for-the-badge" alt="Security Warning"/>
+  <img src="https://img.shields.io/badge/SECURITY-WARNING-ff0000?style=for-the-badge" alt="Security Warning"/>
 </div>
 
-> **⚠️ Attention :**  
-> 
+<div align="center"> 
+    <img src="https://img.shields.io/badge/⚠️ Attention-yellow?style=for-the-badge&logo=&logoColor=white" alt="Avertissement"/>
+
 > | Risque | Précaution |
 > |--------|------------|
 > | **Téléchargements** | Utilisez uniquement les liens officiels fournis pour éviter les malwares. |
@@ -293,8 +302,8 @@
 
 | Date | Modifications |
 |------|---------------|
+| **10 mai 2025** | Correction mise en page, Mise à jour Kibo
 | **6 mai 2025** | Mise en page améliorée |
-| **1 mai 2025** | Ajout liste IPTV pour Wiseplay, ajout de Lokke |
 | **22 février 2025** | Création initiale du README |
 
 </div>
@@ -315,7 +324,7 @@
 ---
 
 <div align="center">
-  <i>Dernière mise à jour / Last updated: 6 mai 2025</i> ⏰
+  <i>Dernière mise à jour / Last updated: 10 mai 2025</i> ⏰
   
   <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>

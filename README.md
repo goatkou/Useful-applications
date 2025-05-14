@@ -287,7 +287,7 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href=https://mihon.app><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href=https://mihon.app/><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
 ---

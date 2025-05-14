@@ -120,7 +120,7 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="http://www.ppcine.com/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://ppcine.org/"><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
 ---

@@ -249,7 +249,7 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href=https://aniyomi.org//><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href=https://aniyomi.org><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
 <div align="center">

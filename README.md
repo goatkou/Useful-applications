@@ -169,10 +169,97 @@
 **🇬🇧** Lokke is an Android multimedia and IPTV player, supporting local video
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓 </p>
- <p><a href="#"><strong>🌐 Site officiel / Official Website</strong></a> </p>
+ <p><a href="https://www.lokke.app/"><strong>🌐 Site officiel / Official Website</strong></a> </p>
 </div>
 
 ---
+## 🍥 Manga et Anime
+
+### 🎬 Kibo
+<div align="center">
+  <img src="https://img.shields.io/badge/Anime_Manga-Reader-FF6B6B?style=for-the-badge" alt="Anime/Manga Streaming"/>
+</div>
+
+**🇫🇷** Kibo est une application de streaming d'anime gratuite qui regroupe le catalogue d'**Anime-Sama** et **FrAnime**, offrant ainsi un large choix d'animes en VF et VOSTFR ainsi que des scans mangas. Son interface fluide et intuitive permet de naviguer facilement parmi les épisodes/scans et de suivre ses séries favorites.  
+
+**🇬🇧** Kibo is a free anime streaming app that combines the catalogs of **Anime-Sama** and **FrAnime**, providing a vast selection of anime in French (VF) and original version with subtitles (VOSTFR) as well as manga scans. Its smooth and intuitive interface makes it easy to browse episodes/manga scans and keep track of favorite series.  
+
+#### 🎯 Fonctionnalités / Features
+
+| Fonctionnalité | Description |
+|----------------|-------------|
+| 📺 | **Accès à un large catalogue** (Anime-Sama & FrAnime) / Access to a vast catalog (Anime-Sama & FrAnime) |
+| 🔎 | **Recherche rapide** et navigation fluide / Fast search and smooth navigation |
+| 🌟 | **Suivi des épisodes** et reprise automatique / Episode tracking and auto-resume |
+| 🎨 | **Interface optimisée** pour mobile / Mobile-optimized interface |
+| 🚀 | **Mises à jour régulières** avec nouveaux épisodes / Frequent updates with new episodes |
+| 📚 | Possibilité de lire des mangas / Possibility to read manga
+
+<div align="center">
+ <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
+ <p><a href=https://www.kiboanime.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+</div>
+
+---
+
+### 🎬 Animetail
+<div align="center">
+  <img src="https://img.shields.io/badge/Anime_Manga-Reader-9B59B6?style=for-the-badge" alt="Manga & Anime Reader"/>
+</div>
+
+**🇫🇷** Animetail, fork d'Aniyomi, optimise la stabilité et ajoute des fonctionnalités pour le streaming d'animes et la lecture de mangas.  
+
+**🇬🇧** Animetail, an Aniyomi fork, enhances stability and adds features for anime streaming and manga reading.  
+
+#### 🎯 Fonctionnalités / Features
+
+| Fonctionnalité | Description |
+|----------------|-------------|
+| 📚 | Sources variées de mangas / Diverse manga sources |
+| 📺 | Streaming avancé / Advanced streaming |
+| 🔗 | Support trackers / Tracker support |
+| 🛠️ | Stabilité améliorée / Improved stability |
+| 🔘 | Personnalisation de boutons / Customize buttons |
+
+**Compatibilité / Compatibility:** Non-root 🔓  
+[**😺 GitHub**](https://github.com/Animetailapp/Animetail)
+
+<details>
+<summary>🔌 Extensions</summary>
+
+> **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Animetail**, ajoutez ces liens dans les paramètres  
+> **🇬🇧 Note:** To access **Anime/Manga** extensions on **Animetail**, add these links in the settings:
+>
+> • **Animes** : [Kohi-den](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)  
+> • **Mangas** : [Keiyoushi](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+
+</details>
+
+---
+
+### 📖 Mihon
+<div align="center">
+  <img src="https://img.shields.io/badge/Manga-Reader-E74C3C?style=for-the-badge" alt="Manga Reader"/>
+</div>
+
+**🇫🇷** Mihon, fork de Tachiyomi, offre une interface moderne et fluide pour lire des mangas avec des sources mises à jour.  
+
+**🇬🇧** Mihon, a Tachiyomi fork, provides a modern, smooth interface for reading manga with updated sources.  
+
+#### 🎯 Fonctionnalités / Features
+
+| Fonctionnalité | Description |
+|----------------|-------------|
+| 📚 | Nombreuses sources / Numerous sources |
+| 🔗 | Trackers intégrés / Integrated trackers |
+| 🎨 | Interface moderne / Modern UI |
+| ⚡ | Navigation fluide / Smooth navigation |
+| 📑 | Gestion des favoris / Favorites management |
+
+**Compatibilité / Compatibility:** Non-root 🔓  
+
+[**😺 GitHub**](https://github.com/mihonapp/mihon)
+
 ---
 
 ## 🚨 Risques et Précautions

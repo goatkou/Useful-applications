@@ -1,13 +1,14 @@
 # 📱 Liste d'Applications Utiles Android / Useful Android Apps List 📱
 
 <p align="center">
- <a href="https://github.com/goatkou/Useful-applications/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Useful-applications?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
- <img src="https://img.shields.io/badge/last%20updated-May%202025-blue?style=for-the-badge" alt="Last Updated">
- </p>
+  <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
+  <img src="https://img.shields.io/badge/last%20updated-May%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Version-2.0-0fdbd1?style=for-the-badge" alt="Version 2.0">
+</p>
 
 <div align="center">
- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
- <img src="https://img.shields.io/badge/Apps-Utiles-orange?style=for-the-badge" alt="Useful Apps"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/APP-Utiles-purple?style=for-the-badge" alt="APP utiles"/>
 </div>
 
 ## 🌍 Introduction
@@ -34,7 +35,7 @@
 |---------------------------------------------------|---------------------------------------------------|
 | [🛠️ Gestion d'applications](#️-gestion-dapplications) | Gestionnaires et utilitaires                      |
 | [🎬 Téléchargement et Streaming](#-téléchargement-et-streaming) | Films, séries, vidéos et IPTV                 |
-| [🍥 Manga et Anime](#manga-et-anime) | Applications pour les fans d'anime et de manga |
+| [🍥 Manga et Anime](#-manga-et-anime) | Applications pour les fans d'anime et de manga |
 | [🚨 Risques et Précautions](#-risques-et-précautions)             | Précautions à prendre                             |
 | [📜 Historique des mises à jour](#-historique-des-mises-à-jour--changelog)        | Historique des mises à jour                       |
 | [🤝 Contributions](#-contributions)                 | Comment contribuer                                |
@@ -42,6 +43,8 @@
 </div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Gestion d'applications
 
@@ -56,7 +59,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                                              |
+| Icône | Description (🇫🇷/🇬🇧)                                                             |
 |----------------|--------------------------------------------------------------------------|
 | 📥             | Téléchargement depuis sources officielles / Download from official sources |
 | 🔄             | Mises à jour automatiques / Automatic updates                            |
@@ -83,7 +86,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                     |
+| Icône | Description (🇫🇷/🇬🇧)                                    |
 |----------------|-------------------------------------------------|
 | 📥             | Téléchargement vidéo/audio / Video/audio downloads |
 | 🎵             | Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC) |
@@ -109,7 +112,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                        |
+| Icône | Description (🇫🇷/🇬🇧)                       |
 |----------------|------------------------------------|
 | 📺             | Streaming HQ / HQ streaming        |
 | 🌐             | Bibliothèque variée / Diverse library |
@@ -133,7 +136,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description                                  |
+| Icône | Description (🇫🇷/🇬🇧)                                 |
 |----------------|----------------------------------------------|
 | 📺             | Lecture m3u/w3u / m3u/w3u playback           |
 | 📡             | Chromecast/DLNA / Chromecast/DLNA            |
@@ -146,6 +149,7 @@
  <p><a href="https://play.google.com/store/apps/details?id=com.wiseplay"><strong>▶️ Google Play</strong></a></p>
 </div>
 
+<div align="center">
 <details>
 <summary>📺 IPTV Channels / Chaînes IPTV</summary>
 
@@ -170,7 +174,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description |
+| Icône | Description (🇫🇷/🇬🇧) |
 |----------------|-------------|
 | 📺 | Lecture de flux / Playback of streams |
 | ⚙️ | Options de personnalisation (sous-titres, qualité) / Customization options (subtitles, quality) |
@@ -181,6 +185,18 @@
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓 </p>
  <p><a href="https://www.lokke.app/"><strong>🌐 Site officiel / Official Website</strong></a> </p>
 </div>
+
+<div align="center">
+<details>
+<summary>📺 TV Channels / Chaînes TV</summary>
+
+> **🇫🇷 Note :** Pour accéder aux chaînes TV sur **Lokke**, ajoutez ces liens dans la barre de recherche  
+> **🇬🇧 Note:** To access TV channels on **Lokke**, add these links in search bar:
+>
+> • **Chaînes TV** : [Vavoo.to](https://vavoo.to)  
+> • **Chaînes TV** : [Kool.to](https://kool.to)
+
+</details>
 
 ---
 ## 🍥 Manga et Anime
@@ -196,7 +212,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description |
+| Icône | Description (🇫🇷/🇬🇧) |
 |----------------|-------------|
 | 📺 | **Accès à un large catalogue** (Anime-Sama & FrAnime) / Access to a vast catalog (Anime-Sama & FrAnime) |
 | 🔎 | **Recherche rapide** et navigation fluide / Fast search and smooth navigation |
@@ -223,7 +239,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description |
+| Icône | Description (🇫🇷/🇬🇧) |
 |----------------|-------------|
 | 📚 | Sources variées de mangas / Diverse manga sources |
 | 📺 | Streaming avancé / Advanced streaming |
@@ -261,7 +277,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Fonctionnalité | Description |
+| Icône | Description (🇫🇷/🇬🇧) |
 |----------------|-------------|
 | 📚 | Nombreuses sources / Numerous sources |
 | 🔗 | Trackers intégrés / Integrated trackers |
@@ -303,10 +319,13 @@
 
 <div align="center">
 
-| Date             | Modifications                                                              |
-|------------------|----------------------------------------------------------------------------|
-| **May 2025** | Version initiale de ce README amélioré.                                   |
-</div>
+| Date | Modifications |
+|------|---------------|
+| **14 mai 2025** |Amélioration mise en page|
+| **10 mai 2025** | Correction mise en page, Mise à jour Kibo |
+| **6 mai 2025** | Mise en page améliorée |
+| **22 février 2025** | Création initiale du README |
+
 
 ---
 
@@ -327,6 +346,6 @@
 ---
 
 <div align="center">
- <i>Dernière mise à jour / Last updated: May 2025</i> ⏰
+ <i>Dernière mise à jour / Last updated: 14 mai 2025</i> ⏰
  <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>

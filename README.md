@@ -166,8 +166,18 @@
 
 **🇫🇷** Lokke est un lecteur multimédia et IPTV pour Android, permettant de lire des vidéos locales et des flux en streaming comme m3u/w3u, avec une interface fluide et des options avancées.
 
-**🇬🇧** Lokke is an Android multimedia and IPTV player, supporting local video
-<div align="center">
+**🇬🇧** Lokke is an Android multimedia and IPTV player, supporting local videos and streaming links like m3u/w3u, with a smooth interface and advanced features.  
+
+#### 🎯 Fonctionnalités / Features
+
+| Fonctionnalité | Description |
+|----------------|-------------|
+| 📺 | Lecture de flux / Playback of streams |
+| ⚙️ | Options de personnalisation (sous-titres, qualité) / Customization options (subtitles, quality) |
+| 🌐 | Compatibilité avec Chromecast et DLNA / Chromecast and DLNA support |
+| 🎨 | Interface intuitive et fluide / Intuitive and smooth interface |
+
+ <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓 </p>
  <p><a href="https://www.lokke.app/"><strong>🌐 Site officiel / Official Website</strong></a> </p>
 </div>
@@ -202,14 +212,14 @@
 
 ---
 
-### 🎬 Animetail
+### 🎬 Aniyomi
 <div align="center">
   <img src="https://img.shields.io/badge/Anime_Manga-Reader-9B59B6?style=for-the-badge" alt="Manga & Anime Reader"/>
 </div>
 
-**🇫🇷** Animetail, fork d'Aniyomi, optimise la stabilité et ajoute des fonctionnalités pour le streaming d'animes et la lecture de mangas.  
+**🇫🇷** Aniyomi est une application pour  le streaming d'animes et la lecture de mangas.  
 
-**🇬🇧** Animetail, an Aniyomi fork, enhances stability and adds features for anime streaming and manga reading.  
+**🇬🇧**  Aniyomi is an application for streaming anime and reading manga.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -221,9 +231,12 @@
 | 🛠️ | Stabilité améliorée / Improved stability |
 | 🔘 | Personnalisation de boutons / Customize buttons |
 
-**Compatibilité / Compatibility:** Non-root 🔓  
-[**😺 GitHub**](https://github.com/Animetailapp/Animetail)
+<div align="center">
+ <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
+ <p><a href=https://aniyomi.org//"><strong>🌐 Site officiel / Official Website</strong></a></p>
+</div>
 
+<div align="center">
 <details>
 <summary>🔌 Extensions</summary>
 
@@ -256,9 +269,10 @@
 | ⚡ | Navigation fluide / Smooth navigation |
 | 📑 | Gestion des favoris / Favorites management |
 
-**Compatibilité / Compatibility:** Non-root 🔓  
-
-[**😺 GitHub**](https://github.com/mihonapp/mihon)
+<div align="center">
+ <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
+ <p><a href=https://mihon.app///"><strong>🌐 Site officiel / Official Website</strong></a></p>
+</div>
 
 ---
 

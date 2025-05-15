@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/APP-Utiles-purple?style=for-the-badge" alt="APP utiles"/>
+  <img src="https://img.shields.io/badge/APPS-Utiles-purple?style=for-the-badge" alt="APPS utiles"/>
 </div>
 
 ## 🌍 Introduction
@@ -31,8 +31,8 @@
 
 <div align="center">
 
-| Catégorie                                         | Description                                       |
-|---------------------------------------------------|---------------------------------------------------|
+| Catégorie                             | Description
+|----------------|-------------|
 | [🛠️ Gestion d'applications](#️-gestion-dapplications) | Gestionnaires et utilitaires                      |
 | [🎬 Téléchargement et Streaming](#-téléchargement-et-streaming) | Films, séries, vidéos et IPTV                 |
 | [🍥 Manga et Anime](#-manga-et-anime) | Applications pour les fans d'anime et de manga |
@@ -43,7 +43,6 @@
 </div>
 
 ---
-
 <div align="center">
 
 ## 🛠️ Gestion d'applications
@@ -59,12 +58,12 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                                             |
-|----------------|--------------------------------------------------------------------------|
-| 📥             | Téléchargement depuis sources officielles / Download from official sources |
-| 🔄             | Mises à jour automatiques / Automatic updates                            |
-| 🌐             | Support GitHub et plus / GitHub and more support                         |
-| ⚙️             | Options de personnalisation / Customization options                      |
+| Icône | Description (🇫🇷/🇬🇧)            
+|----------------|-------------|
+| 📥 | Téléchargement depuis sources officielles / Download from official sources |
+| 🔄 | Mises à jour automatiques / Automatic updates |
+| 🌐 | Support GitHub et plus / GitHub and more support |
+| ⚙️ | Options de personnalisation / Customization options |
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -86,13 +85,13 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                    |
-|----------------|-------------------------------------------------|
-| 📥             | Téléchargement vidéo/audio / Video/audio downloads |
-| 🎵             | Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC) |
-| ⚙️             | Personnalisation qualité / Quality customization |
-| 🚀             | Téléchargements simultanés / Simultaneous downloads |
-| ⚡             | Téléchargements rapides / Fast downloads        |
+| Icône | Description (🇫🇷/🇬🇧)            
+|----------------|-------------|
+| 📥 | Téléchargement vidéo/audio / Video/audio downloads |
+| 🎵 | Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC) |
+| ⚙️ | Personnalisation qualité / Quality customization |
+| 🚀 | Téléchargements simultanés / Simultaneous downloads |
+| ⚡ | Téléchargements rapides / Fast downloads |
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -112,11 +111,11 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                       |
-|----------------|------------------------------------|
-| 📺             | Streaming HQ / HQ streaming        |
-| 🌐             | Bibliothèque variée / Diverse library |
-| 🎨             | Interface intuitive / Intuitive UI |
+| Icône | Description (🇫🇷/🇬🇧)            
+|----------------|-------------|
+| 📺 | Streaming HQ / HQ streaming        |
+| 🌐 | Bibliothèque variée / Diverse library |
+| 🎨 | Interface intuitive / Intuitive UI |
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
@@ -136,20 +135,19 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)                                 |
-|----------------|----------------------------------------------|
-| 📺             | Lecture m3u/w3u / m3u/w3u playback           |
-| 📡             | Chromecast/DLNA / Chromecast/DLNA            |
-| 🎥             | HD, 4K, VR / HD, 4K, VR                      |
-| ⚙️             | Options personnalisables / Customizable options |
-| 📂             | Gestion des playlists / Playlist management  |
+| Icône | Description (🇫🇷/🇬🇧)            
+|----------------|-------------|
+| 📺 | Lecture m3u/w3u / m3u/w3u playback |
+| 📡 | Chromecast/DLNA / Chromecast/DLNA |
+| 🎥 | HD, 4K, VR / HD, 4K, VR |
+| ⚙️ | Options personnalisables / Customizable options |
+| 📂 | Gestion des playlists / Playlist management |
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
  <p><a href="https://play.google.com/store/apps/details?id=com.wiseplay"><strong>▶️ Google Play</strong></a></p>
 </div>
 
-<div align="center">
 <details>
 <summary>📺 IPTV Channels / Chaînes IPTV</summary>
 
@@ -181,12 +179,11 @@
 | 🌐 | Compatibilité avec Chromecast et DLNA / Chromecast and DLNA support |
 | 🎨 | Interface intuitive et fluide / Intuitive and smooth interface |
 
- <div align="center">
+<div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓 </p>
  <p><a href="https://www.lokke.app/"><strong>🌐 Site officiel / Official Website</strong></a> </p>
 </div>
 
-<div align="center">
 <details>
 <summary>📺 TV Channels / Chaînes TV</summary>
 
@@ -199,6 +196,7 @@
 </details>
 
 ---
+
 ## 🍥 Manga et Anime
 
 ### 🎬 Kibo
@@ -219,11 +217,11 @@
 | 🌟 | **Suivi des épisodes** et reprise automatique / Episode tracking and auto-resume |
 | 🎨 | **Interface optimisée** pour mobile / Mobile-optimized interface |
 | 🚀 | **Mises à jour régulières** avec nouveaux épisodes / Frequent updates with new episodes |
-| 📚 | Possibilité de lire des mangas / Possibility to read manga
+| 📚 | Possibilité de lire des mangas / Possibility to read manga |
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href=https://www.kiboanime.app/><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://www.kiboanime.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
 ---
@@ -233,9 +231,9 @@
   <img src="https://img.shields.io/badge/Anime_Manga-Reader-9B59B6?style=for-the-badge" alt="Manga & Anime Reader"/>
 </div>
 
-**🇫🇷** Aniyomi est une application pour  le streaming d'animes et la lecture de mangas.  
+**🇫🇷** Aniyomi est une application pour le streaming d'animes et la lecture de mangas.  
 
-**🇬🇧**  Aniyomi is an application for streaming anime and reading manga.
+**🇬🇧** Aniyomi is an application for streaming anime and reading manga.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -249,15 +247,14 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href=https://aniyomi.org/><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://aniyomi.org/"><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
-<div align="center">
 <details>
 <summary>🔌 Extensions</summary>
 
-> **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Animetail**, ajoutez ces liens dans les paramètres  
-> **🇬🇧 Note:** To access **Anime/Manga** extensions on **Animetail**, add these links in the settings:
+> **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Aniyomi**, ajoutez ces liens dans les paramètres  
+> **🇬🇧 Note:** To access **Anime/Manga** extensions on **Aniyomi**, add these links in the settings:
 >
 > • **Animes** : [Kohi-den](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)  
 > • **Mangas** : [Keiyoushi](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
@@ -287,7 +284,7 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href=https://mihon.app/><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://mihon.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
 ---
@@ -296,18 +293,17 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/SECURITY-WARNING-ff0000?style=for-the-badge" alt="Security Warning"/>
- <p align="center">
+ <p>
  <img src="https://img.shields.io/badge/⚠️ ATTENTION-yellow?style=for-the-badge" alt="Attention"/>
  </p>
 </div>
 
->
-> | Risques                | Précautions                                                                                                |
-> |-----------------------|------------------------------------------------------------------------------------------------------------|
-> | **Sources d'apps** | Téléchargez depuis les sources officielles ou réputées listées pour minimiser les risques de malwares.        |
-> | **Permissions** | Examinez attentivement les permissions demandées par chaque application avant et après l'installation.         |
-> | **Mises à jour** | Soyez prudent avec les mises à jour provenant de sources non officielles; vérifiez leur intégrité si possible. |
-> | **Légalité & ToS** | Assurez-vous que l'utilisation des applications respecte les lois locales et les conditions de service.      |
+| Risques | Précautions |
+|----------------|-------------|
+| **Sources d'apps** | Téléchargez depuis les sources officielles ou réputées listées pour minimiser les risques de malwares. |
+| **Permissions** | Examinez attentivement les permissions demandées par chaque application avant et après l'installation. |
+| **Mises à jour** | Soyez prudent avec les mises à jour provenant de sources non officielles; vérifiez leur intégrité si possible. |
+| **Légalité & ToS** | Assurez-vous que l'utilisation des applications respecte les lois locales et les conditions de service. |
 
 ---
 
@@ -317,15 +313,13 @@
  <img src="https://img.shields.io/badge/📜 Historique des mises à jour / Changelog-ffc054?style=for-the-badge" alt="Changelog"/>
 </div>
 
-<div align="center">
-
 | Date | Modifications |
 |------|---------------|
-| **14 mai 2025** |Amélioration mise en page|
+| **15 mai 2025** | Amélioration de la cohérence et correction du formatage |
+| **14 mai 2025** | Amélioration mise en page |
 | **10 mai 2025** | Correction mise en page, Mise à jour Kibo |
 | **6 mai 2025** | Mise en page améliorée |
 | **22 février 2025** | Création initiale du README |
-
 
 ---
 
@@ -346,6 +340,6 @@
 ---
 
 <div align="center">
- <i>Dernière mise à jour / Last updated: 14 mai 2025</i> ⏰
+ <i>Dernière mise à jour / Last updated: 15 mai 2025</i> ⏰
  <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>

@@ -58,7 +58,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)            
+| Icône | Description (🇫🇷/🇬🇧) |         
 |----------------|-------------|
 | 📥 | Téléchargement depuis sources officielles / Download from official sources |
 | 🔄 | Mises à jour automatiques / Automatic updates |
@@ -85,7 +85,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)            
+| Icône | Description (🇫🇷/🇬🇧) |          
 |----------------|-------------|
 | 📥 | Téléchargement vidéo/audio / Video/audio downloads |
 | 🎵 | Extraction audio (MP3, AAC) / Audio extraction (MP3, AAC) |
@@ -111,9 +111,9 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)            
+| Icône | Description (🇫🇷/🇬🇧) |          
 |----------------|-------------|
-| 📺 | Streaming HQ / HQ streaming        |
+| 📺 | Streaming HQ / HQ streaming |
 | 🌐 | Bibliothèque variée / Diverse library |
 | 🎨 | Interface intuitive / Intuitive UI |
 
@@ -135,7 +135,7 @@
 
 #### 🎯 Fonctionnalités / Features
 
-| Icône | Description (🇫🇷/🇬🇧)            
+| Icône | Description (🇫🇷/🇬🇧) |          
 |----------------|-------------|
 | 📺 | Lecture m3u/w3u / m3u/w3u playback |
 | 📡 | Chromecast/DLNA / Chromecast/DLNA |

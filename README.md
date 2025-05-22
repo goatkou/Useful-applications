@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/last%20updated-May%202025-blue?style=for-the-badge" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Version-2.0-0fdbd1?style=for-the-badge" alt="Version 2.0">
+  <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
 </p>
 
 <div align="center">
@@ -226,20 +226,20 @@
 
 ---
 
-### 🎬 Aniyomi
+### 🎬 Anikku
 <div align="center">
-  <img src="https://img.shields.io/badge/Anime_Manga-Reader-9B59B6?style=for-the-badge" alt="Manga & Anime Reader"/>
+  <img src="https://img.shields.io/badge/Anime-Reader-9B59B6?style=for-the-badge" alt="Anime Reader"/>
 </div>
 
-**🇫🇷** Aniyomi est une application pour le streaming d'animes et la lecture de mangas.  
+**🇫🇷** Anikku est une application pour le streaming d'animes, fork d'Aniyomi, elle ajoute divers options supplémentaires. 
 
-**🇬🇧** Aniyomi is an application for streaming anime and reading manga.
+**🇬🇧** Anikku is an anime streaming app, a fork of Aniyomi, adding various additional options.
 
 #### 🎯 Fonctionnalités / Features
 
 | Icône | Description (🇫🇷/🇬🇧) |
 |----------------|-------------|
-| 📚 | Sources variées de mangas / Diverse manga sources |
+| 💻 | Sources variées d'animes / Varied anime sources |
 | 📺 | Streaming avancé / Advanced streaming |
 | 🔗 | Support trackers / Tracker support |
 | 🛠️ | Stabilité améliorée / Improved stability |
@@ -247,36 +247,35 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="https://aniyomi.org/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://anikku-app.github.io/"><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
 <details>
-<summary>🔌 Extensions</summary>
+<summary>🔌 Extension</summary>
 
-> **🇫🇷 Note :** Pour accéder aux extensions **Animes/Mangas** sur **Aniyomi**, ajoutez ces liens dans les paramètres  
-> **🇬🇧 Note:** To access **Anime/Manga** extensions on **Aniyomi**, add these links in the settings:
+> **🇫🇷 Note :** Pour accéder a l'extension **Animes** sur **Anikku**, ajoutez ce lien dans les paramètres  
+> **🇬🇧 Note:** To access **Anime** extension on **Anikku**, add this link in the settings:
 >
-> • **Animes** : [Kohi-den](https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json)  
-> • **Mangas** : [Keiyoushi](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+> • **Animes** : [Yūzōnō](https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json)  
 
 </details>
 
 ---
 
-### 📖 Mihon
+### 📖 Komikku
 <div align="center">
   <img src="https://img.shields.io/badge/Manga-Reader-E74C3C?style=for-the-badge" alt="Manga Reader"/>
 </div>
 
-**🇫🇷** Mihon, fork de Tachiyomi, offre une interface moderne et fluide pour lire des mangas avec des sources mises à jour.  
+**🇫🇷** Komikku, fork de Mihon, offre une interface moderne et fluide pour lire des mangas avec des sources mises à jour.  
 
-**🇬🇧** Mihon, a Tachiyomi fork, provides a modern, smooth interface for reading manga with updated sources.  
+**🇬🇧** Kimikku, a Mihon fork, provides a modern, smooth interface for reading manga with updated sources.  
 
 #### 🎯 Fonctionnalités / Features
 
 | Icône | Description (🇫🇷/🇬🇧) |
 |----------------|-------------|
-| 📚 | Nombreuses sources / Numerous sources |
+| 📚 | Nombreuses sources mangas / Numerous manga sources |
 | 🔗 | Trackers intégrés / Integrated trackers |
 | 🎨 | Interface moderne / Modern UI |
 | ⚡ | Navigation fluide / Smooth navigation |
@@ -284,8 +283,18 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="https://mihon.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://komikku-app.github.io/"><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
+
+<details>
+<summary>🔌 Extension</summary>
+
+> **🇫🇷 Note :** Pour accéder a l'extension **Mangas** sur **Komikku**, ajoutez ce lien dans les paramètres  
+> **🇬🇧 Note:** To access **Manga** extension on **Komikku**, add this link in the settings:
+>
+> • **Mangas** : [Keiyoushi](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
+
+</details>
 
 ---
 
@@ -315,9 +324,8 @@
 
 | Date | Modifications |
 |------|---------------|
+| **22 mai 2025** | Aniyomi / Mihon retirées. Ajout de Anikku / Komikku |
 | **15 mai 2025** | Amélioration de la cohérence et correction du formatage |
-| **14 mai 2025** | Amélioration mise en page |
-| **10 mai 2025** | Correction mise en page, Mise à jour Kibo |
 | **6 mai 2025** | Mise en page améliorée |
 | **22 février 2025** | Création initiale du README |
 
@@ -340,6 +348,6 @@
 ---
 
 <div align="center">
- <i>Dernière mise à jour / Last updated: 15 mai 2025</i> ⏰
+ <i>Dernière mise à jour / Last updated: 22 mai 2025</i> ⏰
  <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>

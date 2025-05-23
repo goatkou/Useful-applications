@@ -212,11 +212,11 @@
 
 | Icône | Description (🇫🇷/🇬🇧) |
 |----------------|-------------|
-| 📺 | **Accès à un large catalogue** (Anime-Sama & FrAnime) / Access to a vast catalog (Anime-Sama & FrAnime) |
-| 🔎 | **Recherche rapide** et navigation fluide / Fast search and smooth navigation |
-| 🌟 | **Suivi des épisodes** et reprise automatique / Episode tracking and auto-resume |
-| 🎨 | **Interface optimisée** pour mobile / Mobile-optimized interface |
-| 🚀 | **Mises à jour régulières** avec nouveaux épisodes / Frequent updates with new episodes |
+| 📺 | Accès à un large catalogue (Anime-Sama & FrAnime) / Access to a vast catalog (Anime-Sama & FrAnime) |
+| 🔎 | Recherche rapide et navigation fluide / Fast search and smooth navigation |
+| 🌟 | Suivi des épisodes et reprise automatique / Episode tracking and auto-resume |
+| 🎨 | Interface optimisée pour mobile / Mobile-optimized interface |
+| 🚀 | Mises à jour régulières avec nouveaux épisodes / Frequent updates with new episodes |
 | 📚 | Possibilité de lire des mangas / Possibility to read manga |
 
 <div align="center">

@@ -119,7 +119,7 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="https://ppcine.org/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://t.me/+ud6ogkCljmRhNGI1"><strong>🌐 Site officiel / Official Website</strong></a></p>
 </div>
 
 ---
@@ -324,9 +324,9 @@
 
 | Date | Modifications |
 |------|---------------|
+| **26 mai 2025** | Correction lien PPCINE
 | **22 mai 2025** | Aniyomi / Mihon retirées. Ajout de Anikku / Komikku |
 | **15 mai 2025** | Amélioration de la cohérence et correction du formatage |
-| **6 mai 2025** | Mise en page améliorée |
 | **22 février 2025** | Création initiale du README |
 
 ---
@@ -348,6 +348,6 @@
 ---
 
 <div align="center">
- <i>Dernière mise à jour / Last updated: 23 mai 2025</i> ⏰
+ <i>Dernière mise à jour / Last updated: 26 mai 2025</i> ⏰
  <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>

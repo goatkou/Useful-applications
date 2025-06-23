@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/last%20updated-May%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/last%20updated-June%202025-blue?style=for-the-badge" alt="Last Updated">
   <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
 </p>
 
@@ -33,13 +33,40 @@
 
 | Catégorie                             | Description
 |----------------|-------------|
-| [🛠️ Gestion d'applications](#️-gestion-dapplications) | Gestionnaires et utilitaires                      |
-| [🎬 Téléchargement et Streaming](#-téléchargement-et-streaming) | Films, séries, vidéos et IPTV                 |
+| [🛠️ Gestion d'applications](#️-gestion-dapplications) | Gestionnaires et utilitaires |
+| [🎬 Téléchargement et Streaming](#-téléchargement-et-streaming) | Films, séries, vidéos et IPTV |
 | [🍥 Manga et Anime](#-manga-et-anime) | Applications pour les fans d'anime et de manga |
-| [🚨 Risques et Précautions](#-risques-et-précautions)             | Précautions à prendre                             |
-| [📜 Historique des mises à jour](#-historique-des-mises-à-jour--changelog)        | Historique des mises à jour                       |
-| [🤝 Contributions](#-contributions)                 | Comment contribuer                                |
+| [🚨 Risques et Précautions](#-risques-et-précautions) | Précautions à prendre |
+| [📜 Historique des mises à jour](#-historique-des-mises-à-jour--changelog) | Historique des mises à jour |
+| [🤝 Contributions](#-contributions) | Comment contribuer |
 
+</div>
+
+---
+
+## 📋 Index Numéroté / Numbered Index
+
+
+<div align="center">
+<details>
+    <summary><div align="center">
+  <img src="https://img.shields.io/badge/INDEX-NUMÉROTÉ-6c5ce7?style=for-the-badge" alt="Index Numéroté"/>
+</div></summary>
+
+
+| N° | Application | Catégorie |
+|------|-------------|-----------|
+| **1** | [Obtainium](#-obtainium) | Gestion d'applications |
+| **2** | [YTDLnis](#-ytdlnis) | Téléchargement et Streaming |
+| **3** | [Freecine](#%EF%B8%8F-freecine) | Téléchargement et Streaming |
+| **4** | [Wiseplay](#-wiseplay) | Téléchargement et Streaming |
+| **5** | [Lokke](#-lokke) | Téléchargement et Streaming |
+| **6** | [Kibo](#-kibo) | Manga et Anime |
+| **7** | [Anikku](#-anikku) | Manga et Anime |
+| **8** | [Komikku](#-komikku) | Manga et Anime |
+
+</a></p>
+  </details>
 </div>
 
 ---
@@ -68,6 +95,7 @@
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
  <p><a href="https://obtainium.imranr.dev/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -96,18 +124,19 @@
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
  <p><a href="https://ytdlnis.org/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
 
-### 🎞️ PPCine
+### 🎞️ Freecine
 <div align="center">
  <img src="https://img.shields.io/badge/Streaming-Movies_&_Series-1DB954?style=for-the-badge" alt="Streaming"/>
 </div>
 
-**🇫🇷** PPCine propose le streaming gratuit de films, séries et animés avec une interface conviviale, sans abonnement.
+**🇫🇷** Freecine propose le streaming gratuit de films, séries et animés avec une interface conviviale, sans abonnement.
 
-**🇬🇧** PPCine offers free streaming of movies, series, and anime with a user-friendly interface, no subscription needed.
+**🇬🇧** Freecine offers free streaming of movies, series, and anime with a user-friendly interface, no subscription needed.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -119,7 +148,8 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="https://t.me/+ud6ogkCljmRhNGI1"><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://t.me/+ud6ogkCljmRhNGI1"><strong>📢 Telegram</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -146,6 +176,7 @@
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
  <p><a href="https://play.google.com/store/apps/details?id=com.wiseplay"><strong>▶️ Google Play</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <details>
@@ -181,7 +212,8 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓 </p>
- <p><a href="https://www.lokke.app/"><strong>🌐 Site officiel / Official Website</strong></a> </p>
+ <p><a href="https://www.lokke.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <details>
@@ -222,6 +254,7 @@
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
  <p><a href="https://www.kiboanime.app/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
@@ -248,6 +281,7 @@
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
  <p><a href="https://anikku-app.github.io/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <details>
@@ -284,6 +318,7 @@
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
  <p><a href="https://komikku-app.github.io/"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 <details>
@@ -314,6 +349,8 @@
 | **Mises à jour** | Soyez prudent avec les mises à jour provenant de sources non officielles; vérifiez leur intégrité si possible. |
 | **Légalité & ToS** | Assurez-vous que l'utilisation des applications respecte les lois locales et les conditions de service. |
 
+<p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+
 ---
 
 ## 📜 Historique des mises à jour / Changelog
@@ -324,10 +361,13 @@
 
 | Date | Modifications |
 |------|---------------|
-| **26 mai 2025** | Correction lien PPCINE
+| **23 jujn 2025** | Ajout index numéroté, correction
+| **26 mai 2025** | Correction lien Freecine
 | **22 mai 2025** | Aniyomi / Mihon retirées. Ajout de Anikku / Komikku |
 | **15 mai 2025** | Amélioration de la cohérence et correction du formatage |
 | **22 février 2025** | Création initiale du README |
+
+<p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 
 ---
 
@@ -344,10 +384,11 @@
 <p align="center">
  <a href="https://github.com/goatkou/Useful-applications/pulls"><strong>📤 Soumettre une idée / Submit an idea</strong></a>
 </p>
+<p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 
 ---
 
 <div align="center">
- <i>Dernière mise à jour / Last updated: 26 mai 2025</i> ⏰
+ <i>Dernière mise à jour / Last updated: 23 juin 2025</i> ⏰
  <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>

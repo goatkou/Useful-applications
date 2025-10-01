@@ -31,16 +31,15 @@
 
 <div align="center">
 
-| Catégorie |
-| Description |
+| Catégorie | Description |
 |----------------|-------------|
 | [🛠️ Gestion d'applications](#️-gestion-dapplications) | Gestionnaires et utilitaires |
 | [🎬 Téléchargement et Streaming](#-téléchargement-et-streaming) | Films, séries, vidéos et IPTV |
 | [🍥 Manga et Anime](#-manga-et-anime) | Applications pour les fans d'anime et de manga |
-| [📋 Index Numéroté](#-index-num%C3%A9rot%C3%A9--numbered-index) | Index numéroté de toutes les apps|
 | [🚨 Risques et Précautions](#-risques-et-précautions) | Précautions à prendre |
 | [📜 Historique des mises à jour](#-historique-des-mises-à-jour--changelog) | Historique des mises à jour |
 | [🤝 Contributions](#-contributions) | Comment contribuer |
+
 
 </div>
 

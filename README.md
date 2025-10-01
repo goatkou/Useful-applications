@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/last%20updated-June%202025-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/last%20updated-October%202025-blue?style=for-the-badge" alt="Last Updated">
   <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
 </p>
 
@@ -31,7 +31,8 @@
 
 <div align="center">
 
-| Catégorie                             | Description
+| Catégorie |
+| Description |
 |----------------|-------------|
 | [🛠️ Gestion d'applications](#️-gestion-dapplications) | Gestionnaires et utilitaires |
 | [🎬 Téléchargement et Streaming](#-téléchargement-et-streaming) | Films, séries, vidéos et IPTV |
@@ -362,8 +363,8 @@
 
 | Date | Modifications |
 |------|---------------|
-| **23 jujn 2025** | Ajout index numéroté, correction
-| **26 mai 2025** | Correction lien Freecine
+| **23 jujn 2025** | Ajout index numéroté, correction |
+| **26 mai 2025** | Correction lien Freecine |
 | **22 mai 2025** | Aniyomi / Mihon retirées. Ajout de Anikku / Komikku |
 | **15 mai 2025** | Amélioration de la cohérence et correction du formatage |
 | **22 février 2025** | Création initiale du README |
@@ -390,6 +391,6 @@
 ---
 
 <div align="center">
- <i>Dernière mise à jour / Last updated: 23 juin 2025</i> ⏰
+ <i>Dernière mise à jour / Last updated: 1 octobre 2025</i> ⏰
  <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>

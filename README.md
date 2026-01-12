@@ -389,7 +389,7 @@
 | Date | Modifications |
 |------|---------------|
 | **12 janvier 2026** | Ajout de Netfly |
-| **23 jujn 2025** | Ajout index numéroté, correction |
+| **23 juin 2025** | Ajout index numéroté, correction |
 | **26 mai 2025** | Correction lien Freecine |
 | **22 février 2025** | Création initiale du README |
 

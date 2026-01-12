@@ -150,7 +150,7 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="https://netflyapp.com/"><strong>📢 Site web</strong></a></p>
+ <p><a href="https://t.me/+ud6ogkCljmRhNGI1"><strong>📢 Telegram</strong></a></p>
   <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
@@ -176,7 +176,7 @@
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="https://t.me/+ud6ogkCljmRhNGI1"><strong>🌐 Site officiel / Official Website</strong></a></p>
+ <p><a href="https://netflyapp.com/"><strong>🌐 Site officiel / Official Website</strong></a></p>
   <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 

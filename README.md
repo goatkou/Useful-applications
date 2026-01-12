@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/goatkou/Mods-application-directory/stargazers"><img src="https://img.shields.io/github/stars/goatkou/Mods-application-directory?style=for-the-badge&color=yellow" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/last%20updated-October%202025-blue?style=for-the-badge" alt="Last Updated">
-  <img src="https://img.shields.io/badge/Version-2.1-0fdbd1?style=for-the-badge" alt="Version 2.1">
+  <img src="https://img.shields.io/badge/last%20updated-January%202026-blue?style=for-the-badge" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Version-2.2-c9ff05?style=for-the-badge" alt="Version 2.2">
 </p>
 
 <div align="center">
@@ -60,11 +60,12 @@
 | **1** | [Obtainium](#-obtainium) | Gestion d'applications |
 | **2** | [YTDLnis](#-ytdlnis) | Téléchargement et Streaming |
 | **3** | [Freecine](#%EF%B8%8F-freecine) | Téléchargement et Streaming |
-| **4** | [Wiseplay](#-wiseplay) | Téléchargement et Streaming |
-| **5** | [Lokke](#-lokke) | Téléchargement et Streaming |
-| **6** | [Kibo](#-kibo) | Manga et Anime |
-| **7** | [Anikku](#-anikku) | Manga et Anime |
-| **8** | [Komikku](#-komikku) | Manga et Anime |
+| **4** | [Netfly](#%EF%B8%8F-netfly) | Téléchargement et Streaming |
+| **5** | [Wiseplay](#-wiseplay) | Téléchargement et Streaming |
+| **6** | [Lokke](#-lokke) | Téléchargement et Streaming |
+| **7** | [Kibo](#-kibo) | Manga et Anime |
+| **8** | [Anikku](#-anikku) | Manga et Anime |
+| **9** | [Komikku](#-komikku) | Manga et Anime |
 
 </a></p>
   </details>
@@ -108,9 +109,9 @@
  <img src="https://img.shields.io/badge/YouTube-Downloader-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Downloader"/>
 </div>
 
-**🇫🇷** YTDLnis, basé sur youtube-dl, télécharge vidéos et audio depuis diverses plateformes, compatible avec ReVanced et ReVanced Extended.
+**🇫🇷** YTDLnis, basé sur youtube-dl, télécharge vidéos et audio depuis diverses plateformes, compatible avec ReVanced et Morphe.
 
-**🇬🇧** YTDLnis, based on youtube-dl, downloads videos and audio from various platforms, compatible with ReVanced and ReVanced Extended.
+**🇬🇧** YTDLnis, based on youtube-dl, downloads videos and audio from various platforms, compatible with ReVanced and Morphe.
 
 #### 🎯 Fonctionnalités / Features
 
@@ -143,18 +144,43 @@
 
 | Icône | Description (🇫🇷/🇬🇧) |          
 |----------------|-------------|
-| 📺 | Streaming HQ / HQ streaming |
+| 💻 | Streaming HQ / HQ streaming |
 | 🌐 | Bibliothèque variée / Diverse library |
 | 🎨 | Interface intuitive / Intuitive UI |
 
 <div align="center">
  <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
- <p><a href="https://t.me/+ud6ogkCljmRhNGI1"><strong>📢 Telegram</strong></a></p>
+ <p><a href="https://netflyapp.com/"><strong>📢 Site web</strong></a></p>
   <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
 </div>
 
 ---
 
+### 📽️ Netfly
+<div align="center">
+ <img src="https://img.shields.io/badge/Streaming-Movies_&_Series_&_TV-ff08f7?style=for-the-badge" alt="Streaming"/>
+</div>
+
+**🇫🇷** Netfly propose le streaming gratuit de films, séries et animés ainsi que des chaînes tv avec une interface conviviale, sans abonnement.
+
+**🇬🇧** Netfly offers free streaming of movies, series, and anime, as well as TV channels, through a user-friendly interface, no subscription needed.
+
+#### 🎯 Fonctionnalités / Features
+
+| Icône | Description (🇫🇷/🇬🇧) |          
+|----------------|-------------|
+| 💻 | Streaming HQ / HQ streaming |
+| 🌐 | Bibliothèque variée / Diverse library |
+| 🎨 | Interface intuitive / Intuitive UI |
+| 📺 | Chaînes TV / TV channels |
+
+<div align="center">
+ <p><strong>Compatibilité / Compatibility:</strong> Non-root 🔓</p>
+ <p><a href="https://t.me/+ud6ogkCljmRhNGI1"><strong>🌐 Site officiel / Official Website</strong></a></p>
+  <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
+</div>
+
+---
 ### 📡 Wiseplay
 <div align="center">
  <img src="https://img.shields.io/badge/IPTV-Player-2CA5E0?style=for-the-badge" alt="IPTV Player"/>
@@ -362,10 +388,9 @@
 
 | Date | Modifications |
 |------|---------------|
+| **12 janvier 2026** | Ajout de Netfly |
 | **23 jujn 2025** | Ajout index numéroté, correction |
 | **26 mai 2025** | Correction lien Freecine |
-| **22 mai 2025** | Aniyomi / Mihon retirées. Ajout de Anikku / Komikku |
-| **15 mai 2025** | Amélioration de la cohérence et correction du formatage |
 | **22 février 2025** | Création initiale du README |
 
 <p><a href="#-liste-dapplications-utiles-android--useful-android-apps-list-"><strong>⬆️ Retour en haut / Back to top</strong></a></p>
@@ -390,6 +415,6 @@
 ---
 
 <div align="center">
- <i>Dernière mise à jour / Last updated: 1 octobre 2025</i> ⏰
+ <i>Dernière mise à jour / Last updated: 12 janvier 2026</i> ⏰
  <p>Made with ❤️ by <a href="https://github.com/goatkou">goatkou</a></p>
 </div>
